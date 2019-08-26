@@ -29,7 +29,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 ## Anime
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | :us: [Animelon](https://animelon.com/) | Website para assistir animes com legendas em japonês  |
 | :us: [Kitsunekko](http://kitsunekko.net/) | Website que disponibiliza legendas de animes em japonês, inglês, chinês e coreano |
 | :us: [Terakoya Anime Channel](https://www.daiweeb.org/terakoya) | Website para assistir animes com legendas em japonês |
@@ -37,7 +37,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 ## :iphone: Aplicativo para Celular e Software
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | [Anki](https://apps.ankiweb.net/)| Programa de *flashcards* com o sistema de repetição espaçada(SRS) |
 | :jp: [BookLive Reader](https://play.google.com/store/apps/details?id=jp.booklive.reader)| Aplicativo do BookLive Reader para comprar mangás em japonês **(Restrito a IP's do Japão)** |
 | :us: [Duolingo](https://www.duolingo.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
@@ -50,14 +50,14 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 ## :busts_in_silhouette: Comunidade
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | :brazil: [Japonês Brasil](https://discord.gg/hm4wKA5) | Servidor do [discord](https://discordapp.com/) brasileiro para estudantes da língua japonesa | 
 
 
 ## :books: Dicionário
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | [Google Translate](https://translate.google.com) | Tradutor do Google | | :jp: |
 | :us: [Jisho](https://jisho.org/)| Dicionário de japonês | :us: |
 | :us: [Tangorin](https://tangorin.com/)| Dicionários de japonês |
@@ -66,7 +66,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 ## Extensões para Navegadores
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Extensão para o Google Chrome que adiciona furigana nos textos de websites |
 | :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)| Entensão para o navegador Google Chrome |
 | :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Extensão para o navegador Firefox. |
@@ -75,7 +75,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 ## :video_game: Games
 
 | Nome | Plataforma |
-|:----:|:---------:|
+|:----|:---------:|
 | :jp: [Sword Art Online: Memory Defragment](https://play.google.com/store/apps/details?id=com.bandainamcoent.saomd) | Mobile(android) |
 | :jp: [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Mobile(android) |
 | :jp: [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Mobile(android) |
@@ -84,13 +84,13 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 
 ## :credit_card: Loja
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | :us: :jp: [Amazon](http://amazon.co.jp) | Loja para se comprar produtos em geral |
 
 ## :book: Mangá
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | :jp: [BookLive](https://booklive.jp/download/index) | Site com mangás em japonês disponível para compra | 
 | :jp: [Honto](https://honto.jp/) | Site com mangás em japonês disponível para compra | 
 | :jp: [Mangaz](https://www.mangaz.com/) | Site com mangás em japonês disponível para compra | 
@@ -98,7 +98,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 ## :dvd: Multimidia
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | :us: [Anime Chat](http://anime-chat.jp/) | Site onde você pode aprender japonês conversando com um personagem de anime. |
 | :jp: [Nico Nico Douga](http://www.nicovideo.jp/) |  Serviço de compartilhamento de vídeos semelhante ao Youtube muito conhecido no Japão |
 
@@ -106,7 +106,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 ## Outros
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
 
 ## :mag: Torrent e Tracker
@@ -114,7 +114,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 Categoria que contêm
 
 | Nome | Descrição |
-|:----:|:---------:|
+|:----|:---------:|
 | :us: [ACGNX](https://www.acgnx.se/) | **Tracker** de midias japonesas tais como animes, mangás light-novels, música, games, etc |
 | :us: [Anidex](https://anidex.info/?id=7,8) | **Tracker** de midias japonesas tais como animes, mangás light-novels, música, games, etc |
 | :us: [Nyaa.si](https://nyaa.si/) | **Tracker** de midias japonesas tais como animes, mangás light-novels, música, games, etc |
@@ -124,7 +124,7 @@ Categoria que contêm
 ## :earth_asia: Website
 
 | Nome | Descrição | Categoria |
-|:----:|:---------:|:----: | 
+|:----|:---------:|:----: | 
 | :brazil: [Aulas de Japonês](https://aulasdejapones.com.br/) | Portal de estudo da língua japonesa com vários artigos. Possui um curso fechado chamado Programa Japonẽs Online | Estudo |
 | [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese/learn/list/)| Curso de japonês oferecido pela NHK | Curso |
 | :us: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês | Curso |
