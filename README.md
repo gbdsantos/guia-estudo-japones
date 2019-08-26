@@ -1,6 +1,6 @@
 # :jp: Guia de Referência para Estudantes de Japonês
 
-Este repositório é uma espécie de *complilado* com links utéis com foco para estudantes da língua japonesa que falam português.
+Este repositório é uma espécie de *compilado* com links utéis com foco para estudantes da língua japonesa que falam português.
 
 Se você tem alguma familiaridade com o inglês, recomendo fortemente que veja o repositório [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese).
 
@@ -115,11 +115,11 @@ Categoria que contêm
 
 | Nome | Descrição |
 |:----|:---------:|
-| :us: [ACGNX](https://www.acgnx.se/) | **Tracker** de midias japonesas tais como animes, mangás light-novels, música, games, etc |
-| :us: [Anidex](https://anidex.info/?id=7,8) | **Tracker** de midias japonesas tais como animes, mangás light-novels, música, games, etc |
-| :us: [Nyaa.si](https://nyaa.si/) | **Tracker** de midias japonesas tais como animes, mangás light-novels, música, games, etc |
-| :jp: [Tokyo Toshokan](https://www.tokyotosho.info/search.php) | **Tracker** de midias japonesas tais como animes, mangás light-novels, música, games, etc |
-| :us: [ShanaProject](https://www.shanaproject.com/) | **Tracker** de fansub |
+| :us: [ACGNX](https://www.acgnx.se/) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
+| :us: [Anidex](https://anidex.info/?id=7,8) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
+| :us: [Nyaa.si](https://nyaa.si/) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
+| :jp: [Tokyo Toshokan](https://www.tokyotosho.info/search.php) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
+| :us: [ShanaProject](https://www.shanaproject.com/) | *Tracker* de fansub |
 
 ## :earth_asia: Website
 
