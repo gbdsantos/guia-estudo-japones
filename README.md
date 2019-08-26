@@ -111,8 +111,6 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 
 ## :mag: Torrent e Tracker
 
-Categoria que contêm
-
 | Nome | Descrição |
 |:----|:---------:|
 | :us: [ACGNX](https://www.acgnx.se/) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
