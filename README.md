@@ -14,17 +14,18 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 
 ## :pushpin: Índice
 
-- [Anime](#animes "Listagem de recursos relacionados a animes ")
-- [Aplicativo para Celular e Software](#aplicativos-para-celular "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
-- [Comunidade](#comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
-- [Dicionário](#dicionários "Listagem de Dicionários")
+- [Anime](#iphone-aplicativo-para-celular-e-software "Listagem de recursos relacionados a animes ")
+- [Aplicativo para Celular e Software](#busts_in_silhouette-comunidade "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
+- [Comunidade](#books-dicionário "Listagem de comunidades brasileiras de estudantes da língua japonesa")
+- [Dicionário](#books-dicionário "Listagem de Dicionários")
 - [Extensões para Navegadores](#extensões-para-navegadores "Extensões para navegadores")
-- [Loja](#lojas "Listagem de lojas para compra de artigos japoneses")
-- [Mangá](#mangás "Listagem de recursos relacionados a mangás")
-- [Multimidia](#multimidia  "Categoria que contém itens relacionados a vídeos, músicas, filmes, etc")
+- [Games](#video_game-games "Listagem de games")
+- [Loja](#credit_card-loja "Listagem de lojas para compra de artigos japoneses")
+- [Mangá](#book-mangá "Listagem de recursos relacionados a mangás")
+- [Multimidia](#dvd-multimidia  "Categoria que contém itens relacionados a vídeos, músicas, filmes, etc")
 - [Outros](#outros "Tudo que não puder ser colocado nas outras categorias estará aqui")
-- [Torrent & Tracker](#torrent-e-tracker "Listagem de trackers e torrents")
-- [Website](#website "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
+- [Torrent & Tracker](#mag-torrent-e-tracker "Listagem de trackers e torrents")
+- [Website](#earth_asia-website "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
 - [Contribua](#contribua "Contribua com o projeto!")
 - [Licença](#licença "Licenças deste trabalho")
 
