@@ -74,11 +74,12 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 
 ## :video_game: Games
 
-| Nome | Plataforma |
-|:----|:---------:|
-| :jp: [Sword Art Online: Memory Defragment](https://play.google.com/store/apps/details?id=com.bandainamcoent.saomd) | Mobile(android) |
-| :jp: [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Mobile(android) |
-| :jp: [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Mobile(android) |
+| Nome | Descrição | Plataforma |
+|:-----|:---------:|:----------:|
+| :jp: [Illust Chainer](https://play.google.com/store/apps/details?id=com.gunsturn.illustchainer) |*Shiritori* multiplayer | Mobile(android) |
+| :jp: [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Game de Puzzle | Mobile(android) |
+| :jp: [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Game estilo RPG | Mobile(android) |
+| :jp: [Sword Art Online: Memory Defragment](https://play.google.com/store/apps/details?id=com.bandainamcoent.saomd) | Game da série Sword Art Online  | Mobile(android) |
 
 > Alguns jogos podem ter trava regional.
 
