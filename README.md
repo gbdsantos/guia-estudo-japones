@@ -2,7 +2,7 @@
 
 Este repositório é uma espécie de *compilado* com links utéis com foco para estudantes da língua japonesa que falam português.
 
-Se você tem alguma familiaridade com o inglês, recomendo fortemente que veja o repositório [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese).
+Inspirado no repositório [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese), se você tem alguma familiaridade com o inglês recomendo fortemente que o veja.
 
 ## :memo: Legenda
 
@@ -45,7 +45,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | |
 | [Lingodeer](https://www.lingodeer.com/) | Aplicativo para estudar japonês, disponível para Android e IOS | |
 | [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
-| [Obenkyou]() || :brazil: |
+| [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana, disponível para Android |
 
 ## :busts_in_silhouette: Comunidade
 
@@ -68,8 +68,8 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | Nome | Descrição |
 |:----|:---------:|
 | [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Extensão para o Google Chrome que adiciona furigana nos textos de websites |
-| :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)| Entensão para o navegador Google Chrome |
-| :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Extensão para o navegador Firefox. |
+| :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)| Extensão para o Google Chrome que adiciona furigana nos textos de websites |
+| :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Extensão para o Firefox que adiciona furigana nos textos de websites |
 | :us: [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?utm_source=chrome-ntp-icon) | Essa extensão é semelhante a Rikaichan para Firefox e Rikaikun para Chrome, mas se destaca em seu objetivo de ser uma ferramenta de aprendizado abrangente em oposição a um mero dicionário baseado em navegador | 
 
 ## :video_game: Games
@@ -129,7 +129,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | :us: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês | Curso |
 | :us: [Japanesepod101](https://www.japanesepod101.com/) | Portal de estudo da língua japonesa | Estudo |
 | :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com materias de estudos voltado para o JLPT(*Japanese Language Proficiency Test*) | Estudos |
-| :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos japonês a partir da forma de dicíonário | Ferramenta |
+| :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos japoneses a partir da forma de dicíonário | Ferramenta |
 | :brazil: [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas | Estudo |
 | :us: [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji | Ferramenta |
 | :brazil: [Kotobá](http://kotoba.com.br/) | Site com vários artigos sobre o Japão. Possui um curso fechado chamado JLPT Gaichi Taisaku, nos níveis N3, N4, N5 | Estudo |
@@ -138,3 +138,12 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | :us: [Renshuu](https://www.renshuu.org/) | Plataforma de estudo de japonês com frases e imagens | Estudo |
 | :brazil: [Suki Desu](http://skdesu.com/) | Blog que possui artigos relacionados ao estudo e a cultura japonesa | Estudo |
 | :us: [Tanos](http://www.tanos.co.uk/) | Website com materias de estudos voltado para o JLPT(*Japanese Language Proficiency Test*) | Estudo |
+
+## Contribua
+
+Tem alguma link que deseja que fosse adicionado? É só fazer o seu ***pull request***, abrir uma ***issue*** ou me pedir diretamente, fique a vontade :)
+
+## Licença
+![creative-commons-license](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
+
+Este trabalho está sobre a licença [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/). Altere e compartilhe sem medo, mas dê os devidos créditos.
