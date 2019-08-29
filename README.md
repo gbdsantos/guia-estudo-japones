@@ -14,9 +14,9 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 
 ## :pushpin: Índice
 
-- [Anime](#iphone-aplicativo-para-celular-e-software "Listagem de recursos relacionados a animes ")
-- [Aplicativo para Celular e Software](#busts_in_silhouette-comunidade "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
-- [Comunidade](#books-dicionário "Listagem de comunidades brasileiras de estudantes da língua japonesa")
+- [Anime](#anime "Listagem de recursos relacionados a animes ")
+- [Aplicativo para Celular e Software](#iphone-aplicativo-para-celular-e-software "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
+- [Comunidade](#busts_in_silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
 - [Dicionário](#books-dicionário "Listagem de Dicionários")
 - [Extensões para Navegadores](#extensões-para-navegadores "Extensões para navegadores")
 - [Games](#video_game-games "Listagem de games")
