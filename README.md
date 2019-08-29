@@ -23,8 +23,10 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 - [Mangá](#mangás "Listagem de recursos relacionados a mangás")
 - [Multimidia](#multimidia  "Categoria que contém itens relacionados a vídeos, músicas, filmes, etc")
 - [Outros](#outros "Tudo que não puder ser colocado nas outras categorias estará aqui")
-- [Torrent & Tracker](#torrents-e-trackers "Listagem de trackers e torrents")
+- [Torrent & Tracker](#torrent-e-tracker "Listagem de trackers e torrents")
 - [Website](#website "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
+- [Contribua](#contribua "Contribua com o projeto!")
+- [Licença](#licença "Licenças deste trabalho")
 
 ## Anime
 
@@ -141,7 +143,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 
 ## Contribua
 
-Tem alguma link que deseja que fosse adicionado? É só fazer o seu ***pull request***, abrir uma ***issue*** ou me pedir diretamente, fique a vontade :)
+Tem alguma sugestão para adicionar na lista? É só fazer o seu ***pull request***, abrir uma ***issue*** ou me pedir diretamente, fique a vontade :)
 
 ## Licença
 ![creative-commons-license](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
