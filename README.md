@@ -49,6 +49,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | [Lingodeer](https://www.lingodeer.com/) | Aplicativo para estudar japonês, disponível para Android e IOS | |
 | [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
 | [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana, disponível para Android |
+| [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine |
 
 ## :busts_in_silhouette: Comunidade
 
@@ -79,6 +80,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 
 | Nome | Descrição | Plataforma |
 |:-----|:---------:|:----------:|
+| :jp: [Freem](https://www.freem.ne.jp/) | Website que tem vários jogos em japonês | - |
 | :jp: [Illust Chainer](https://play.google.com/store/apps/details?id=com.gunsturn.illustchainer) |*Shiritori* multiplayer | Mobile(android) |
 | :jp: [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Game de Puzzle | Mobile(android) |
 | :jp: [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Game estilo RPG | Mobile(android) |
@@ -104,6 +106,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | Nome | Descrição |
 |:----|:---------:|
 | :us: [Anime Chat](http://anime-chat.jp/) | Site onde você pode aprender japonês conversando com um personagem de anime. |
+| :jp: [A.I.Games](https://www.youtube.com/channel/UCbFwe3COkDrbNsbMyGNCsDg/) | Canal oficial no Youtube de gameplay da KizunaIA  |
 | :jp: [Nico Nico Douga](http://www.nicovideo.jp/) |  Serviço de compartilhamento de vídeos semelhante ao Youtube muito conhecido no Japão |
 
 
