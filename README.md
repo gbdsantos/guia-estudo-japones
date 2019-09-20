@@ -50,7 +50,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
 | [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana, disponível para Android |
 | [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine |
-| [Voracious](https://voracious.app) | Um Vídeo Player para aprender idiomas, com ênfase no Japonês |
+| :us: [Voracious](https://voracious.app) | Um Vídeo Player para aprender idiomas, com ênfase no Japonês |
 | [YACReader](https://yacreader.com) | Programa para leitura de mangás e quadrinhos, disponível para Windows, Mac OS, Linux e IOS |
 
 ## :busts_in_silhouette: Comunidade
