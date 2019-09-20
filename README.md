@@ -110,7 +110,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | :us: [Anime Chat](http://anime-chat.jp/) | Site onde você pode aprender japonês conversando com um personagem de anime. |
 | :jp: [A.I.Games](https://www.youtube.com/channel/UCbFwe3COkDrbNsbMyGNCsDg/) | Canal oficial no Youtube de gameplay da KizunaIA  |
 | :jp: [Nico Nico Douga](http://www.nicovideo.jp/) |  Serviço de compartilhamento de vídeos semelhante ao Youtube muito conhecido no Japão |
-
+| [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Radio Garden permite que você ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo |
 
 ## Outros
 
