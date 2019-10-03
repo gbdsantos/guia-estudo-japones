@@ -136,7 +136,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese/learn/list/)| Curso de japonês oferecido pela NHK | Curso |
 | :us: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês | Curso |
 | :us: [Japanesepod101](https://www.japanesepod101.com/) | Portal de estudo da língua japonesa | Estudo |
-| :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com materias de estudos voltado para o JLPT(*Japanese Language Proficiency Test*) | Estudos |
+| :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) | Estudos |
 | :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos japoneses a partir da forma de dicíonário | Ferramenta |
 | :brazil: [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas | Estudo |
 | :us: [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji | Ferramenta |
