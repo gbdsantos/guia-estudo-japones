@@ -145,7 +145,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | :brazil: [Nippo](http://www.nippo.com.br/2.semanal.aula/index.php) | Website que possui um curso de Kanjis e Conversação | Estudo |
 | :us: [Renshuu](https://www.renshuu.org/) | Plataforma de estudo de japonês com frases e imagens | Estudo |
 | :brazil: [Suki Desu](http://skdesu.com/) | Blog que possui artigos relacionados ao estudo e a cultura japonesa | Estudo |
-| :us: [Tanos](http://www.tanos.co.uk/) | Website com materias de estudos voltado para o JLPT(*Japanese Language Proficiency Test*) | Estudo |
+| :us: [Tanos](http://www.tanos.co.uk/) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) | Estudo |
 
 ## Contribua
 
