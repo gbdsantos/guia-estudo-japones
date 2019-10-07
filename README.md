@@ -16,6 +16,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 
 - [Anime](#anime "Listagem de recursos relacionados a animes ")
 - [Aplicativo para Celular e Software](#iphone-aplicativo-para-celular-e-software "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
+- [Complementos para o Anki](#wrench-complementos-para-o-anki "Lista de complementos recomendados para adicionar no Anki")
 - [Comunidade](#busts_in_silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
 - [Dicionário](#books-dicionário "Listagem de Dicionários")
 - [Extensões para Navegadores](#extensões-para-navegadores "Extensões para navegadores")
@@ -52,6 +53,20 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 | [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine |
 | :us: [Voracious](https://voracious.app) | Um Vídeo Player para aprender idiomas, com ênfase no Japonês |
 | [YACReader](https://yacreader.com) | Programa para leitura de mangás e quadrinhos, disponível para Windows, Mac OS, Linux e IOS |
+
+## :wrench: Complementos para o Anki
+
+> Fique atento a sua versão do Anki para que o complemento é compatível.
+
+| Nome | Descrição |
+|:----:|:---------:|
+| [Anki Connect](https://ankiweb.net/shared/info/2055492159) | Complemento para ser possível criar cartas a partir do navegador  |
+| [Night Mode](https://ankiweb.net/shared/info/1496166067) | Tema escuro para o Anki |
+| [Heatmap Review](https://github.com/glutanimate/review-heatmap/releases) | Visualização de sequência com um gráfico de *heatmap* |
+| :us: [Kanji Colorizer (stroke order diagrams)](https://ankiweb.net/shared/info/1964372878) | Cria uma imagem com a ordem dos traços enumerados de kanji em um campo chamado *Diagram*. Na descrição do complemento(em inglês) mostra como usar, caso ainda assim tenham alguma dificuldade recomendo ver este [vídeo]( https://youtu.be/JA5SJMdI3Zs) |
+| [Large and Colorful Buttons](https://ankiweb.net/shared/info/1829090218) | Estilização do botões da tela de revisão  |
+| [Kanji Grid](https://ankiweb.net/shared/info/909972618) | Complemento que faz uma busca no baralho e gera um relatório sobre kanjis aprendidos |
+| [True Retention](https://ankiweb.net/shared/info/613684242) | Adiciona novas métricas a janela de estatísticas  |
 
 ## :busts_in_silhouette: Comunidade
 
