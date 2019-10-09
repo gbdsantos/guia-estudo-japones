@@ -53,7 +53,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
 | [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana, disponível para Android |
 | [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine |
-| :us: [Voracious](https://voracious.app) | Um Vídeo Player para aprender idiomas, com ênfase no Japonês |
+| [Voracious](https://voracious.app) | Um Vídeo Player para aprender idiomas, com ênfase no Japonês |
 | [YACReader](https://yacreader.com) | Programa para leitura de mangás e quadrinhos, disponível para Windows, Mac OS, Linux e IOS |
 
 ## :wrench: Complementos para o Anki
@@ -155,7 +155,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese/learn/list/)| Curso de japonês oferecido pela NHK | Curso |
 | :us: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês | Curso |
 | :us: [Japanesepod101](https://www.japanesepod101.com/) | Portal de estudo da língua japonesa | Estudo |
-| :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com materias de estudos voltado para o JLPT(*Japanese Language Proficiency Test*) | Estudos |
+| :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) | Estudos |
 | :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos japoneses a partir da forma de dicíonário | Ferramenta |
 | :brazil: [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas | Estudo |
 | :us: [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji | Ferramenta |
@@ -166,7 +166,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :brazil: [Nippo](http://www.nippo.com.br/2.semanal.aula/index.php) | Website que possui um curso de Kanjis e Conversação | Estudo |
 | :us: [Renshuu](https://www.renshuu.org/) | Plataforma de estudo de japonês com frases e imagens | Estudo |
 | :brazil: [Suki Desu](http://skdesu.com/) | Blog que possui artigos relacionados ao estudo e a cultura japonesa | Estudo |
-| :us: [Tanos](http://www.tanos.co.uk/) | Website com materias de estudos voltado para o JLPT(*Japanese Language Proficiency Test*) | Estudo |
+| :us: [Tanos](http://www.tanos.co.uk/) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) | Estudo |
 | :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. | Ferramenta |
 
 ## Contribua
