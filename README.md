@@ -124,12 +124,16 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | Nome | Descrição |
 |:----|:---------:|
 | :us: [Anime Chat](http://anime-chat.jp/) | Site onde você pode aprender japonês conversando com um personagem de anime. |
+| :jp: [ANNnewsCH](https://www.youtube.com/watch?v=coYw-eVU0Ks&feature=youtu.be) | Live notícias 24 hrs de Canal no YouTube |
 | :jp: [A.I.Games](https://www.youtube.com/channel/UCbFwe3COkDrbNsbMyGNCsDg/) | Canal oficial no Youtube de gameplay da KizunaIA  |
+| :jp: [Calígrafo Takumi Higashimiya](https://www.youtube.com/user/takumitohgu) | Canal do YouTube sobre caligrafia japonesa |
 | :jp:  [JpRaws](http://jpraws.net/) | :underage: Raw de materiais originais como mangás, *novels*, *doujins* e outros  |
 | :jp: [Manga Download](https://manga-download.com/) | :underage: Raw de materiais originais como mangás, *novels*, *artbooks*, revistas, e outros |
 | :jp: [Manga Zip](http://manga-zip.net/) | Raw de materiais originais como mangás, albuns musicais, e outros |
 | :jp: [Nico Nico Douga](http://www.nicovideo.jp/) |  Serviço de compartilhamento de vídeos semelhante ao Youtube muito conhecido no Japão |
+| :jp: [QVC Japan 【公式】](https://www.youtube.com/watch?v=wMo3F5IouNs&feature=youtu.be) | Live de Canal no YouTube estilo *Polishop* versão japonesa |
 | [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Radio Garden permite que você ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo |
+| :jp: [Soseki Project](http://www.sosekiproject.org/) | Conteúdo de literatura japonesa |
 
 ## Outros
 
