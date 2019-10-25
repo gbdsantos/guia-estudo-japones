@@ -49,6 +49,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Duolingo](https://www.duolingo.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
 | [Hello Talk](https://www.hellotalk.com/?lang=pt-br) | Aplicativo para conversar com falantes nativos de vários idiomas, disponível para Android e IOS  |
 | [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | |
+| [KanjiTomo](https://www.kanjitomo.net/#Download) | É um programa que identifica caracteres japoneses a partir de imagens, disponível oficialmente somente para Windows | |
 | [Lingodeer](https://www.lingodeer.com/) | Aplicativo para estudar japonês, disponível para Android e IOS | |
 | [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
 | [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana, disponível para Android |
@@ -173,6 +174,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Renshuu](https://www.renshuu.org/) | Plataforma de estudo de japonês com frases e imagens | Estudo |
 | :brazil: [Suki Desu](http://skdesu.com/) | Blog que possui artigos relacionados ao estudo e a cultura japonesa | Estudo |
 | :us: [Tanos](http://www.tanos.co.uk/) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) | Estudo |
+| :jp: [Watanoc](http://watanoc.com/) | Website com notícias dividadas por cada nivel do JLPT(*Japanese Language Proficiency Test*) | Estudo |
 | :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. | Ferramenta |
 
 ## Contribua
