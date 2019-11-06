@@ -49,7 +49,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Duolingo](https://www.duolingo.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
 | [Hello Talk](https://www.hellotalk.com/?lang=pt-br) | Aplicativo para conversar com falantes nativos de vários idiomas, disponível para Android e IOS  |
 | [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | |
-| [KanjiTomo](https://www.kanjitomo.net/#Download) | É um programa que identifica caracteres japoneses a partir de imagens, disponível oficialmente somente para Windows | |
+| [KanjiTomo](https://www.kanjitomo.net/#Download) | É um programa que identifica caracteres japoneses a partir de imagens, disponível para Windows e Mac/Linux | |
 | [Lingodeer](https://www.lingodeer.com/) | Aplicativo para estudar japonês, disponível para Android e IOS | |
 | [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
 | [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana, disponível para Android |
@@ -90,9 +90,12 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 | Nome | Descrição |
 |:----|:---------:|
+| :us: [Anki Quick Adder](https://chrome.google.com/webstore/detail/gpbcbbajoagdgnokieocaplbhkiidmmb)| Extensão OCR para o Google Chrome para adicionar cartas direto pelo navegador |
+| :us: [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)| Extensão OCR para o Google Chrome que extrai o texto de imagens, vídeos e PDF |
 | [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Extensão para o Google Chrome que adiciona furigana nos textos de websites |
-| :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)| Extensão para o Google Chrome que adiciona furigana nos textos de websites |
 | :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Extensão para o Firefox que adiciona furigana nos textos de websites |
+| :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)| Extensão para o Google Chrome que adiciona furigana nos textos de websites |
+| :brazil: [Rikai-san](https://github.com/eyeS-Code/rikaisan-universal)| Extensão para o Google Chrome que adiciona furigana nos textos de websites em português |
 | :us: [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?utm_source=chrome-ntp-icon) | Essa extensão é semelhante a Rikaichan para Firefox e Rikaikun para Chrome, mas se destaca em seu objetivo de ser uma ferramenta de aprendizado abrangente em oposição a um mero dicionário baseado em navegador | 
 
 ## :video_game: Games
