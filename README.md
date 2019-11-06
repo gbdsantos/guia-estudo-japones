@@ -119,6 +119,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 | Nome | Descrição |
 |:----|:---------:|
+| :jp: :us: [Binligual Manga](https://bilingualmanga.com/) | Site com mangás em japonês e com tradução em inglês com um recurso de alternância de idioma rápida | 
 | :jp: [BookLive](https://booklive.jp/download/index) | Site com mangás em japonês disponível para compra | 
 | :jp: [Honto](https://honto.jp/) | Site com mangás em japonês disponível para compra | 
 | :jp: [Mangaz](https://www.mangaz.com/) | Site com mangás em japonês disponível para compra | 
