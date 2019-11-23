@@ -92,6 +92,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 |:----|:---------:|
 | :us: [Anki Quick Adder](https://chrome.google.com/webstore/detail/gpbcbbajoagdgnokieocaplbhkiidmmb)| Extensão OCR para o Google Chrome para adicionar cartas direto pelo navegador |
 | :us: [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)| Extensão OCR para o Google Chrome que extrai o texto de imagens, vídeos e PDF |
+| [Google Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt) | Extensão para o Google Chrome do Google Tradutor com funcionalidade parecida com a do Rikai-kun |
 | [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Extensão para o Google Chrome que adiciona furigana nos textos de websites |
 | :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Extensão para o Firefox que adiciona furigana nos textos de websites |
 | :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)| Extensão para o Google Chrome que adiciona furigana nos textos de websites |
@@ -144,6 +145,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 | Nome | Descrição |
 |:----|:---------:|
+| [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
 | [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
 
 ## :mag: Torrent e Tracker
