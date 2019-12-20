@@ -103,6 +103,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 | Nome | Descrição | Plataforma |
 |:-----|:---------:|:----------:|
+| :jp: [美文字トレーニング(Bimoji Training)](https://mega.nz/#!vyATTSiQ!Iglv3P4DGQh2Xfne6A43yJ98ZL-6ckQ84NdfdctBuu0) | Game para praticar escrita/caligrafia, a senha para descompactar o arquivo é: `RomHere.com` [fonte](https://romhere.com/roms/nintendo-ds/ds-bimoji-training/jpn) | Nintendo DS |
 | :jp: [Freem](https://www.freem.ne.jp/) | Website que tem vários jogos em japonês | - |
 | :jp: [Illust Chainer](https://play.google.com/store/apps/details?id=com.gunsturn.illustchainer) |*Shiritori* multiplayer | Mobile(android) |
 | :jp: [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Game de Puzzle | Mobile(android) |
