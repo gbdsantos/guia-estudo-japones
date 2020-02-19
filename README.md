@@ -21,7 +21,8 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 - [Complementos para o Anki](#wrench-complementos-para-o-anki "Lista de complementos recomendados para adicionar no Anki")
 - [Comunidade](#busts_in_silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
 - [Dicionário](#books-dicionário "Listagem de Dicionários")
-- [Extensões para Navegadores](#extensões-para-navegadores "Extensões para navegadores")
+- [Extensões para o Firefox](#extensões-para-o-firefox "Extensões para o Firefox")
+- [Extensões para o Google Chrome](#extensões-para-o-google-chrome "Extensões para o Google Chrome")
 - [Games](#video_game-games "Listagem de games")
 - [Loja](#credit_card-loja "Listagem de lojas para compra de artigos japoneses")
 - [Mangá](#book-mangá "Listagem de recursos relacionados a mangás")
@@ -86,17 +87,25 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Tangorin](https://tangorin.com/)| Dicionários de japonês |
 | [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |
 
-## Extensões para Navegadores
+## Extensões para o Firefox
 
 | Nome | Descrição |
 |:----|:---------:|
-| :us: [Anki Quick Adder](https://chrome.google.com/webstore/detail/gpbcbbajoagdgnokieocaplbhkiidmmb)| Extensão OCR para o Google Chrome para adicionar cartas direto pelo navegador |
-| :us: [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)| Extensão OCR para o Google Chrome que extrai o texto de imagens, vídeos e PDF |
-| [Google Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt) | Extensão para o Google Chrome do Google Tradutor com funcionalidade parecida com a do Rikai-kun |
-| [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Extensão para o Google Chrome que adiciona furigana nos textos de websites |
-| :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Extensão para o Firefox que adiciona furigana nos textos de websites |
-| :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)| Extensão para o Google Chrome que adiciona furigana nos textos de websites |
-| :brazil: [Rikai-san](https://github.com/eyeS-Code/rikaisan-universal)| Extensão para o Google Chrome que adiciona furigana nos textos de websites em português |
+| :us: [Mainichi](https://addons.mozilla.org/pt-BR/firefox/addon/mainichi/) | Exibe uma nova palavra em japonês toda vez que uma nova aba é aberta |
+| :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Adiciona furigana nos textos de websites |
+
+## Extensões para o Google Chrome
+
+| Nome | Descrição |
+|:----|:---------:|
+| :us: [Anki Quick Adder](https://chrome.google.com/webstore/detail/gpbcbbajoagdgnokieocaplbhkiidmmb)| Adicionar cartas no Anki direto pelo navegador |
+| :us: [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)| *OCR*(Optical Character Recognition) que extrai o texto de imagens, vídeos e PDF |
+| [Google Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt) | Google Tradutor com funcionalidade parecida com a do Rikai-kun |
+| [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Adiciona furigana nos textos de websites |
+| :brazil: [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl) | Assistir filmes e séries no idioma que você estuda na Netflix |
+| :us: [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn) | Exibe uma nova palavra em japonês toda vez que uma nova aba é aberta |
+| :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)|Adiciona furigana nos textos de websites |
+| :brazil: [Rikai-san](https://github.com/eyeS-Code/rikaisan-universal)| Adiciona furigana nos textos de websites em português |
 | :us: [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?utm_source=chrome-ntp-icon) | Essa extensão é semelhante a Rikaichan para Firefox e Rikaikun para Chrome, mas se destaca em seu objetivo de ser uma ferramenta de aprendizado abrangente em oposição a um mero dicionário baseado em navegador | 
 
 ## :video_game: Games
