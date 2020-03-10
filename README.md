@@ -20,7 +20,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 - [Aplicativo para Celular e Software](#iphone-aplicativo-para-celular-e-software "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
 - [Complementos para o Anki](#wrench-complementos-para-o-anki "Lista de complementos recomendados para adicionar no Anki")
 - [Comunidade](#busts_in_silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
-- [Dicionário](#books-dicionário "Listagem de Dicionários")
+- [Dicionários](#books-dicionários "Listagem de Dicionários")
 - [Extensões para o Firefox](#extensões-para-o-firefox "Extensões para o Firefox")
 - [Extensões para o Google Chrome](#extensões-para-o-google-chrome "Extensões para o Google Chrome")
 - [Games](#video_game-games "Listagem de games")
@@ -79,14 +79,15 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 |:----|:---------:|
 | :brazil: [Japonês Brasil](https://discord.gg/hm4wKA5) | Servidor do [discord](https://discordapp.com/) brasileiro para estudantes da língua japonesa | 
 
-## :books: Dicionário
+## :books: Dicionários
 
 | Nome | Descrição |
 |:----|:---------:|
-| [Google Translate](https://translate.google.com) | Tradutor do Google | | :jp: |
-| :us: [Jisho](https://jisho.org/)| Dicionário de japonês | :us: |
-| :us: [Tangorin](https://tangorin.com/)| Dicionários de japonês |
-| [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |
+| [Glosbe](https://pt.glosbe.com/) | Dicionário multílingue, possui frases de exemplo em português de algumas palavras |
+| [Google Translate](https://translate.google.com) | Tradutor do Google | 
+| :us: [Jisho](https://jisho.org/)| Dicionário de japonês | 
+| :us: [Tangorin](https://tangorin.com/)| Dicionário de japonês |
+| [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |palavra |
 
 ## Extensões para o Firefox
 
