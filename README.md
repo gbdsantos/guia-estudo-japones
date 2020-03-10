@@ -77,7 +77,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 | Nome | Descrição |
 |:----|:---------:|
-| :brazil: [Japonês Brasil](https://discord.gg/hm4wKA5) | Servidor do [discord](https://discordapp.com/) brasileiro para estudantes da língua japonesa | 
+| :brazil: [Japonês Brasil](https://discord.gg/E9vjHEP) | Servidor do [discord](https://discordapp.com/) brasileiro para estudantes da língua japonesa | 
 
 ## :books: Dicionários
 
