@@ -30,6 +30,8 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 - [Outros](#outros "Tudo que não puder ser colocado nas outras categorias estará aqui")
 - [Torrent & Tracker](#mag-torrent-e-tracker "Listagem de trackers e torrents")
 - [Website](#earth_asia-website "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
+  - [Cursos](#cursos)
+  - [Estudo](#estudo) 
 - [Contribua](#contribua "Contribua com o projeto!")
 - [Licença](#licença "Licenças deste trabalho")
 
@@ -172,28 +174,42 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 ## :earth_asia: Website
 
-| Nome | Descrição | Categoria |
-|:----|:---------:|:----: | 
-| :brazil: [Aulas de Japonês](https://aulasdejapones.com.br/) | Portal de estudo da língua japonesa com vários artigos. Possui um curso fechado chamado Programa Japonẽs Online | Estudo |
-| [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese/learn/list/)| Curso de japonês oferecido pela NHK | Curso |
-| :us: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês | Curso |
-| :us: [Japanese Conjugator Pratice](http://baileysnyder.com/jconj/) | Teste suas habilidades na conjugação de verbos | Ferramenta |
-| :us: [Japanesepod101](https://www.japanesepod101.com/) | Portal de estudo da língua japonesa | Estudo |
-| :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) | Estudos |
-| :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário | Ferramenta |
-| :brazil: [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas | Estudo |
-| :us: [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji | Ferramenta |
-| [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) | Realizar pesquisa de kanjis escrevendo | Ferramenta |
-| :us: [Kanji.sljfaq](http://kakijun.com/) | Website que mostra imagem em  `.png` ou `.svg` da ordem dos traços enumerados, é um site bem estilo de ser *tool* mesmo, e nos bastidores usa o [kanji-colorize](https://github.com/cayennes/kanji-colorize) que também é usado no complento do Anki [Kanji Colorizer](https://ankiweb.net/shared/info/1964372878) | Ferramenta |
-| :jp: [Kakijun](http://kakijun.com/) |Website semelhante ao [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) nele é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. | Ferramenta |
-| :brazil: [Kotobá](http://kotoba.com.br/) | Site com vários artigos sobre o Japão. Possui um curso fechado chamado JLPT Gaichi Taisaku, nos níveis N3, N4, N5 | Estudo |
-| :us: [Lyrical Nonsense](https://www.lyrical-nonsense.com/) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | Website |
-| :brazil: [Nippo](http://www.nippo.com.br/2.semanal.aula/index.php) | Website que possui um curso de Kanjis e Conversação | Estudo |
-| :us: [Renshuu](https://www.renshuu.org/) | Plataforma de estudo de japonês com frases e imagens | Estudo |
-| :brazil: [Suki Desu](http://skdesu.com/) | Blog que possui artigos relacionados ao estudo e a cultura japonesa | Estudo |
-| :us: [Tanos](http://www.tanos.co.uk/) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) | Estudo |
-| :jp: [Watanoc](http://watanoc.com/) | Website com notícias dividadas por cada nivel do JLPT(*Japanese Language Proficiency Test*) | Estudo |
-| :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. | Ferramenta |
+- [Cursos](#cursos)
+- [Estudo](#estudo)
+
+### Cursos
+
+| Nome | Descrição |
+|:----|:---------:|
+| [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese/learn/list/)| Curso de japonês oferecido pela NHK |
+| :us: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês |
+| :brazil: [Nippo](http://www.nippo.com.br/2.semanal.aula/index.php) | Website que possui um curso de Kanjis e Conversação |
+
+### Estudo
+
+Recursos que serão de muita utilidade durante sua jornada de estudo.
+
+| Nome | Descrição |
+|:----|:---------:|
+| :brazil: [Aulas de Japonês](https://aulasdejapones.com.br/) | Portal de estudo da língua japonesa com vários artigos. Possui um curso fechado chamado Programa Japonẽs Online |
+| :jp: [絵でわかる日本語](http://www.edewakaru.com/ "Entender Japonês por Imagens") | Possui vasto conteúdo para aprender japonês a partir de imagens |
+| :brazil: [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas |
+| :us: [Japanese Conjugator Pratice](http://baileysnyder.com/jconj/) | Teste suas habilidades na conjugação de verbos |
+| :us: [Japanesepod101](https://www.japanesepod101.com/) | Portal de estudo da língua japonesa |
+| :us: [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji |
+| [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) | Realizar pesquisa de kanjis escrevendo | 
+| :us: [Kanji.sljfaq](http://kakijun.com/) | Website que mostra imagem em  `.png` ou `.svg` da ordem dos traços enumerados, é um site bem estilo de ser *tool* mesmo, e nos bastidores usa o [kanji-colorize](https://github.com/cayennes/kanji-colorize) que também é usado no complento do Anki [Kanji Colorizer](https://ankiweb.net/shared/info/1964372878) |
+| :jp: [Kakijun](http://kakijun.com/) |Website semelhante ao [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) nele é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. |
+| :brazil: [Kotobá](http://kotoba.com.br/) | Site com vários artigos sobre o Japão. Possui um curso fechado chamado JLPT Gaichi Taisaku, nos níveis N3, N4, N5 |
+| :us: [Lyrical Nonsense](https://www.lyrical-nonsense.com/) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | 
+| :us: [Renshuu](https://www.renshuu.org/) | Plataforma de estudo de japonês com frases e imagens |
+| :brazil: [Suki Desu](http://skdesu.com/) | Blog que possui artigos relacionados ao estudo e a cultura japonesa |
+| :us: [Tanos](http://www.tanos.co.uk/) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) | 
+| :jp: [Watanoc](http://watanoc.com/) | Website com notícias dividadas por cada nivel do JLPT(*Japanese Language Proficiency Test*) |
+| :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. |
+| :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) |
+| :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário |
+
 
 ## Contribua
 
