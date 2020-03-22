@@ -106,6 +106,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)| *OCR*(Optical Character Recognition) que extrai o texto de imagens, vídeos e PDF |
 | [Google Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt) | Google Tradutor com funcionalidade parecida com a do Rikai-kun |
 | [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Adiciona furigana nos textos de websites |
+| :us: [Japanese.IO](https://www.japanese.io/) | Leitor on-line, feed de notícias sociais e extensão do Chrome que torna a leitura em japonês fácil e prazerosa. Também funciona no celular.  |
 | :brazil: [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl) | Assistir filmes e séries no idioma que você estuda na Netflix |
 | :us: [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn) | Exibe uma nova palavra em japonês toda vez que uma nova aba é aberta |
 | :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)|Adiciona furigana nos textos de websites |
