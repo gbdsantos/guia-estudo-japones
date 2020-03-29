@@ -194,6 +194,7 @@ Recursos que serão de muita utilidade durante sua jornada de estudo.
 |:----|:---------:|
 | :brazil: [Aulas de Japonês](https://aulasdejapones.com.br/) | Portal de estudo da língua japonesa com vários artigos. Possui um curso fechado chamado Programa Japonẽs Online |
 | :jp: [絵でわかる日本語](http://www.edewakaru.com/ "Entender Japonês por Imagens") | Possui vasto conteúdo para aprender japonês a partir de imagens |
+|:us: [ichi.moe](https://ichi.moe/) | Divide uma frase em palavras, procura elas no dicionário |
 | :brazil: [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas |
 | :us: [Japanese Conjugator Pratice](http://baileysnyder.com/jconj/) | Teste suas habilidades na conjugação de verbos |
 | :us: [Japanesepod101](https://www.japanesepod101.com/) | Portal de estudo da língua japonesa |
