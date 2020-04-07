@@ -87,7 +87,9 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 |:----|:---------:|
 | [Glosbe](https://pt.glosbe.com/) | Dicionário multílingue, possui frases de exemplo em português de algumas palavras |
 | [Google Translate](https://translate.google.com) | Tradutor do Google | 
+| :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário |
 | :us: [Jisho](https://jisho.org/)| Dicionário de japonês | 
+| :us: [Reverso Conjugation](https://conjugator.reverso.net/conjugation-japanese.html) | Conjugador de verbo de várias línguas |
 | :us: [Tangorin](https://tangorin.com/)| Dicionário de japonês |
 | [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |palavra |
 
@@ -210,8 +212,6 @@ Recursos que serão de muita utilidade durante sua jornada de estudo.
 | :jp: [Watanoc](http://watanoc.com/) | Website com notícias dividadas por cada nivel do JLPT(*Japanese Language Proficiency Test*) |
 | :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. |
 | :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) |
-| :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário |
-
 
 ## Contribua
 
