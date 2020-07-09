@@ -8,9 +8,9 @@ Inspirado no repositório [Awesome Japanese](https://github.com/yudataguy/Awesom
 
 Caso algum recurso esteja disponível somente em um idioma específico ele será marcado com a bandeira de respectivo país.
 
-| | | |
-|:----:|:---------:|:---------:|:------: |
-|:jp: Recurso em japonês | :us: Recurso em inglês | :brazil: Recurso em português |
+| Recurso em Japonês |  Recurso em Inglês | Recurso em Português |
+|:----:|:---------:|:---------:|
+| :jp: | :us: | :brazil: |
 
 Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequado para todas as audiências e/ou que sejam recomendado para maiores de dezoito anos. Então, entre por sua própria conta e risco.
 
