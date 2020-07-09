@@ -8,7 +8,7 @@ Inspirado no repositório [Awesome Japanese](https://github.com/yudataguy/Awesom
 
 Caso algum recurso esteja disponível somente em um idioma específico ele será marcado com a bandeira de respectivo país.
 
-||||
+| | | |
 |:----:|:---------:|:---------:|:------: |
 |:jp: Recurso em japonês | :us: Recurso em inglês | :brazil: Recurso em português |
 
@@ -72,7 +72,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Kanji Grid](https://ankiweb.net/shared/info/909972618) | Complemento que faz uma busca no baralho e gera um relatório sobre kanjis aprendidos |
 | [True Retention](https://ankiweb.net/shared/info/613684242) | Adiciona novas métricas a janela de estatísticas  |
 
-## :busts_in_silhouette: Comunidade
+## :busts_in_silhouette: Comunidades
 
 | Nome | Descrição |
 |:-----|:---------:|
@@ -98,14 +98,14 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Tangorin](https://tangorin.com/)| Dicionário de japonês |
 | [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |
 
-# Extensões para o Firefox
+## Extensões para o Firefox
 
 | Nome | Descrição |
 |:----|:---------:|
 | :us: [Mainichi](https://addons.mozilla.org/pt-BR/firefox/addon/mainichi/) | Exibe uma nova palavra em japonês toda vez que uma nova aba é aberta |
 | :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Adiciona furigana nos textos de websites |
 
-# Extensões para o Google Chrome
+## Extensões para o Google Chrome
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -119,7 +119,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :brazil: [Rikai-san](https://github.com/eyeS-Code/rikaisan-universal)| Adiciona furigana nos textos de websites em português |
 | :us: [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?utm_source=chrome-ntp-icon) | Essa extensão é semelhante a Rikaichan para Firefox e Rikaikun para Chrome, mas se destaca em seu objetivo de ser uma ferramenta de aprendizado abrangente em oposição a um mero dicionário baseado em navegador | 
 
-# :hammer_and_wrench: Ferramentas
+## :hammer_and_wrench: Ferramentas
 
 | Nome | Descrição | 
 |:-----|:---------:|
@@ -132,8 +132,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Kiji-check](https://www.kiji-check.com/) | O Suporte à Revisão de Japonês é um site que ajuda você a escrever frases em japonês corretas. |
 | :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
 
-
-# :video_game: Games
+## :video_game: Games
 
 | Nome | Descrição | Plataforma |
 |:-----|:---------:|:----------:|
@@ -144,8 +143,6 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Game estilo RPG | Mobile(android) |
 | :jp: [Sword Art Online: Memory Defragment](https://play.google.com/store/apps/details?id=com.bandainamcoent.saomd) | Game da série Sword Art Online  | Mobile(android) |
 |[WoWRoms](https://wowroms.com/en/roms/list?search=Japan) | Games em japonês para diversas plataformas. Principalmente para Nintendo | |
-
-
 > Alguns jogos podem ter trava regional.
 
 ## :books: Livros
@@ -165,7 +162,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 <br />
 
-# :dvd: Multimidia
+## :dvd: Multimidia
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -177,7 +174,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [QVC Japan 【公式】](https://www.youtube.com/watch?v=wMo3F5IouNs&feature=youtu.be) | Live de Canal no YouTube estilo *Polishop* versão japonesa |
 | :jp: [Soseki Project](http://www.sosekiproject.org/) | Conteúdo de literatura japonesa |
 
-## :clapper: Animes
+### :clapper: Animes
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -185,7 +182,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Kitsunekko](http://kitsunekko.net/) | Website que disponibiliza legendas de animes em japonês, inglês, chinês e coreano |
 | :us: [Terakoya Anime Channel](https://www.daiweeb.org/terakoya) | Website para assistir animes com legendas em japonês |
 
-## :green_book: Mangás
+### :green_book: Mangás
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -199,7 +196,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Mangaz](https://www.mangaz.com/) | Site com mangás em japonês disponível para compra | 
 | :jp: [Manga Zip](http://manga-zip.net/) | Raw de materiais originais como mangás, albuns musicais, e outros |
 
-## :musical_note: Músicas
+### :musical_note: Músicas
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -207,7 +204,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Lyrical Nonsense](https://www.lyrical-nonsense.com/) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | 
 | [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo, incluindo o Japão |
 
-## Outros
+### Outros
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -215,7 +212,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
 | :jp: [Viki](https://www.viki.com/explore?country=japan) | Assista doramas japoneses com legendas em japonês |
 
-## :arrow_down: Torrent e Trackers
+### :arrow_down: Torrent e Trackers
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -225,7 +222,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Tokyo Toshokan](https://www.tokyotosho.info/search.php) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
 | :us: [ShanaProject](https://www.shanaproject.com/) | *Tracker* de fansub |
 
-# :earth_asia: Websites
+## :earth_asia: Websites
 
 Recursos que serão de muita utilidade durante sua jornada de estudo.
 
