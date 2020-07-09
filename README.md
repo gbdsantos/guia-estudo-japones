@@ -1,6 +1,6 @@
-# :jp: Guia de Referência para Estudantes de Japonês
+# :pushpin: Curadoria de Recursos Úteis para Estudantes da Língua Japonesa
 
-Este repositório é uma espécie de *compilado* com links utéis com foco para estudantes da língua japonesa que falam português.
+Este repositório é uma espécie de índice com links utéis com foco para estudantes da língua japonesa que falam português.
 
 Inspirado no repositório [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese), se você tem alguma familiaridade com o inglês recomendo fortemente que o veja.
 
@@ -9,56 +9,53 @@ Inspirado no repositório [Awesome Japanese](https://github.com/yudataguy/Awesom
 Caso algum recurso esteja disponível somente em um idioma específico ele será marcado com a bandeira de respectivo país.
 
 ||||
-|:----:|:---------:|:---------:|
+|:----:|:---------:|:---------:|:------: |
 |:jp: Recurso em japonês | :us: Recurso em inglês | :brazil: Recurso em português |
 
 Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequado para todas as audiências e/ou que sejam recomendado para maiores de dezoito anos. Então, entre por sua própria conta e risco.
 
 ## :pushpin: Índice
 
-- [Anime](#anime "Listagem de recursos relacionados a animes ")
-- [Aplicativo para Celular e Software](#iphone-aplicativo-para-celular-e-software "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
-- [Complementos para o Anki](#wrench-complementos-para-o-anki "Lista de complementos recomendados para adicionar no Anki")
-- [Comunidade](#busts_in_silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
-- [Dicionários](#books-dicionários "Listagem de Dicionários")
+- :iphone: [Aplicativo para Celular e Software](#iphone-aplicativo-para-celular-e-software "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
+- :wrench: [Complementos para o Anki](#wrench-Complementos-para-o-Anki "Lista de complementos recomendados para adicionar no Anki")
+- :busts_in_silhouette: [Comunidade](#busts-in-silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
+- :tv: [Cursos](#tv-cursos)
+- :books: [Dicionários](#books-dicionários "Listagem de Dicionários")
 - [Extensões para o Firefox](#extensões-para-o-firefox "Extensões para o Firefox")
 - [Extensões para o Google Chrome](#extensões-para-o-google-chrome "Extensões para o Google Chrome")
-- [Games](#video_game-games "Listagem de games")
-- [Loja](#credit_card-loja "Listagem de lojas para compra de artigos japoneses")
-- [Mangá](#book-mangá "Listagem de recursos relacionados a mangás")
-- [Multimidia](#dvd-multimidia  "Categoria que contém itens relacionados a vídeos, músicas, filmes, etc")
-- [Outros](#outros "Tudo que não puder ser colocado nas outras categorias estará aqui")
-- [Torrent & Tracker](#mag-torrent-e-tracker "Listagem de trackers e torrents")
-- [Website](#earth_asia-website "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
-  - [Cursos](#cursos)
-  - [Estudo](#estudo) 
+- 🧰 [Ferramentas](#hammer-and-wrench-ferramentas)
+- :video_game: [Games](#video_game-games "Listagem de games")
+- :books: [Livros](#books-livros)
+- :convenience_store: [Lojas](#convenience-store-lojas "Listagem de lojas para compra de artigos japoneses")
+- :dvd: [Multimidia](#dvd-multimidia  "Categoria que contém itens relacionados a vídeos, músicas, filmes, etc")
+  - :clapper: [Animes](#clapper-animes "Listagem de recursos relacionados a animes ")
+  - :green_book: [Mangás](#green-book-mangás "Listagem de recursos relacionados a mangás")
+  - :musical_note: [Músicas](#musical-note-musicas "Lista de links relacionado a música")
+  - [Outros](#outros "Tudo que não puder ser colocado nas outras categorias estará aqui")
+  - :arrow_down: [Torrent & Trackers](#arrow-down-torrent-e-trackers "Listagem de trackers e torrents")
+- :earth_asia: [Websites](#earth-asia-websites "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
 - [Contribua](#contribua "Contribua com o projeto!")
-- [Licença](#licença "Licenças deste trabalho")
+- :copyright: [Licença](#copyright-licença "Licenças deste trabalho")
 
-## Anime
-
-| Nome | Descrição |
-|:----|:---------:|
-| :us: [Animelon](https://animelon.com/) | Website para assistir animes com legendas em japonês  |
-| :us: [Kitsunekko](http://kitsunekko.net/) | Website que disponibiliza legendas de animes em japonês, inglês, chinês e coreano |
-| :us: [Terakoya Anime Channel](https://www.daiweeb.org/terakoya) | Website para assistir animes com legendas em japonês |
+<br />
 
 ## :iphone: Aplicativo para Celular e Software
 
-| Nome | Descrição |
-|:----|:---------:|
-| [Anki](https://apps.ankiweb.net/)| Programa de *flashcards* com o sistema de repetição espaçada(SRS) |
-| :jp: [BookLive Reader](https://play.google.com/store/apps/details?id=jp.booklive.reader)| Aplicativo do BookLive Reader para comprar mangás em japonês **(Restrito a IP's do Japão)** |
-| :us: [Duolingo](https://www.duolingo.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
-| [Hello Talk](https://www.hellotalk.com/?lang=pt-br) | Aplicativo para conversar com falantes nativos de vários idiomas, disponível para Android e IOS  |
-| [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | |
-| [KanjiTomo](https://www.kanjitomo.net/#Download) | É um programa que identifica caracteres japoneses a partir de imagens, disponível para Windows e Mac/Linux | |
-| [Lingodeer](https://www.lingodeer.com/) | Aplicativo para estudar japonês, disponível para Android e IOS | |
-| [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês, disponível para Android e IOS |
-| [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana, disponível para Android |
-| [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine |
-| [Voracious](https://voracious.app) | Um Vídeo Player para aprender idiomas, com ênfase no Japonês |
-| [YACReader](https://yacreader.com) | Programa para leitura de mangás e quadrinhos, disponível para Windows, Mac OS, Linux e IOS |
+| Nome | Descrição | Plataformas |
+|:-----|:---------:|:-----------:|
+| [Anki](https://apps.ankiweb.net/)| Programa de *flashcards* com o sistema de repetição espaçada(SRS) | Android, IOS, Linux, Windows |
+| :jp: [BookLive Reader](https://play.google.com/store/apps/details?id=jp.booklive.reader)| Aplicativo do BookLive Reader para comprar mangás em japonês **(Restrito a IP's do Japão)** | Android, IOS  |
+| :us: [Duolingo](https://www.duolingo.com/) | Aplicativo para estudo de japonês |  Android, IOS |
+| [Hello Talk](https://www.hellotalk.com/?lang=pt-br) | Aplicativo para conversar com falantes nativos de vários idiomas  |  Android, IOS |
+| [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | Android, IOS |
+| [KanjiTomo](https://www.kanjitomo.net/#Download) | OCR que identifica caracteres japoneses a partir de imagens | Linux, macOS, Windows |
+| [Lingodeer](https://www.lingodeer.com/) | Aplicativo com ênfase no aprendizado de idiomas asiáticos | Android, IOS |
+| [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês | Android, IOS |
+| [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana | Android, IOS |
+| [OCR Manga Reader](http://ocrmangareaderforandroid.sourceforge.net/#download) | O OCR Manga Reader é um aplicativo Android de código aberto(open-source) e gratuito que permite que você oculte rapidamente e procure palavras japonesas em tempo real. Não possui anúncios ou telemetria/*spyware* e não requer conexão com a Internet. Suporta o dicionário EDICT J-E, dicionário de nomes ENAMDICT(opcional), dicionário de kanji(opcional) e até 4 dicionários EPWING. Requer o Android 4.0(Ice Cream Sandwich) ou superior. | Android |
+| [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine | Windows |
+| [Voracious](https://voracious.app) | Vídeo Player para aprender idiomas, com ênfase no Japonês | Linux, macOS, Windows |
+| [YACReader](https://yacreader.com) | Programa para leitura e gerenciamento(biblioteca) de mangás e quadrinhos | Linux, macOS, Windows 
 
 ## :wrench: Complementos para o Anki
 
@@ -78,29 +75,37 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 ## :busts_in_silhouette: Comunidade
 
 | Nome | Descrição |
-|:----|:---------:|
-| :brazil: [Japonês Brasil](https://discord.gg/E9vjHEP) | Servidor do [discord](https://discordapp.com/) brasileiro para estudantes da língua japonesa | 
+|:-----|:---------:|
+| :brazil: [Japonês Brasil](https://discord.gg/E9ybcew) | Servidor do [discord](https://discordapp.com/) brasileiro para estudantes da língua japonesa | 
+
+## :tv: Cursos
+
+| Nome | Descrição |
+|:-----|:---------:|
+| :brazil: [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese/) | Curso de japonês oferecido pela NHK |
+| :brazil: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês |
+| :brazil: [Nippo](https://www.nippo.com.br/2.semanal.aula/) | Website que possui um curso de Kanjis e Conversação |
 
 ## :books: Dicionários
 
 | Nome | Descrição |
-|:----|:---------:|
+|:-----|:---------:|
 | [Glosbe](https://pt.glosbe.com/) | Dicionário multílingue, possui frases de exemplo em português de algumas palavras |
 | [Google Translate](https://translate.google.com) | Tradutor do Google | 
 | :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário |
 | :us: [Jisho](https://jisho.org/)| Dicionário de japonês | 
 | :us: [Reverso Conjugation](https://conjugator.reverso.net/conjugation-japanese.html) | Conjugador de verbo de várias línguas |
 | :us: [Tangorin](https://tangorin.com/)| Dicionário de japonês |
-| [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |palavra |
+| [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |
 
-## Extensões para o Firefox
+# Extensões para o Firefox
 
 | Nome | Descrição |
 |:----|:---------:|
 | :us: [Mainichi](https://addons.mozilla.org/pt-BR/firefox/addon/mainichi/) | Exibe uma nova palavra em japonês toda vez que uma nova aba é aberta |
 | :us: [Rikai-chan](http://www.polarcloud.com/rikaichan/) | Adiciona furigana nos textos de websites |
 
-## Extensões para o Google Chrome
+# Extensões para o Google Chrome
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -108,14 +113,27 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)| *OCR*(Optical Character Recognition) que extrai o texto de imagens, vídeos e PDF |
 | [Google Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt) | Google Tradutor com funcionalidade parecida com a do Rikai-kun |
 | [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Adiciona furigana nos textos de websites |
-| :us: [Japanese.IO](https://www.japanese.io/) | Leitor on-line, feed de notícias sociais e extensão do Chrome que torna a leitura em japonês fácil e prazerosa. Também funciona no celular.  |
 | :brazil: [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl) | Assistir filmes e séries no idioma que você estuda na Netflix |
 | :us: [Mainichi](https://chrome.google.com/webstore/detail/mainichi/dfekdjmdikicceaiokcmmchenpilglhn) | Exibe uma nova palavra em japonês toda vez que uma nova aba é aberta |
 | :us: [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)|Adiciona furigana nos textos de websites |
 | :brazil: [Rikai-san](https://github.com/eyeS-Code/rikaisan-universal)| Adiciona furigana nos textos de websites em português |
 | :us: [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?utm_source=chrome-ntp-icon) | Essa extensão é semelhante a Rikaichan para Firefox e Rikaikun para Chrome, mas se destaca em seu objetivo de ser uma ferramenta de aprendizado abrangente em oposição a um mero dicionário baseado em navegador | 
 
-## :video_game: Games
+# :hammer_and_wrench: Ferramentas
+
+| Nome | Descrição | 
+|:-----|:---------:|
+| :us: [DownSub](https://downsub.com/) | O DownSub pode baixar legendas diretamente do Youtube, VIU, Viki, Vlive e muito mais. Suporta o download de todos os formatos de legendas, como: SRT, TXT, VTT. O DownSub não força o usuário a baixar ou instalar qualquer tipo de extensões ou software de terceiros. Fornecemos um método on-line para baixar legendas digitando o URL do vídeo e clicando em Download. |
+| [ichi.moe](https://ichi.moe/) | Divide uma frase em palavras, procura elas no dicionário |
+| :us: [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji |
+| :us: [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) | Realizar pesquisa de kanjis escrevendo |
+| :us: [Kanji.sljfaq](https://kanji.sljfaq.org/) | Website que mostra imagem em .png ou .svg da ordem dos traços enumerados, é um site bem estilo de ser tool mesmo, e nos bastidores usa o kanji-colorize que também é usado no complento do Anki Kanji Colorizer |
+| :jp: [Kakijun](http://kakijun.com/) | Website semelhante ao Yamasa nele é possível buscar por um kanji desejado e ele mostra um .gif da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
+| :jp: [Kiji-check](https://www.kiji-check.com/) | O Suporte à Revisão de Japonês é um site que ajuda você a escrever frases em japonês corretas. |
+| :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
+
+
+# :video_game: Games
 
 | Nome | Descrição | Plataforma |
 |:-----|:---------:|:----------:|
@@ -125,24 +143,29 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Game de Puzzle | Mobile(android) |
 | :jp: [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Game estilo RPG | Mobile(android) |
 | :jp: [Sword Art Online: Memory Defragment](https://play.google.com/store/apps/details?id=com.bandainamcoent.saomd) | Game da série Sword Art Online  | Mobile(android) |
+|[WoWRoms](https://wowroms.com/en/roms/list?search=Japan) | Games em japonês para diversas plataformas. Principalmente para Nintendo | |
+
 
 > Alguns jogos podem ter trava regional.
 
-## :credit_card: Loja
+## :books: Livros
+
+| Nome | Descrição |
+|:----|:---------:|
+| :us: [Free Japanese Books](https://freejapanesebooks.com/) | Vários livros para baixar(*download*) estudar japonês para diversos níveis. |
+| :jp: [Maho](https://maho.jp/) | Livros e novels |
+| :jp: [Soseki Project](http://www.sosekiproject.org/) | Livros e conteúdo da literatura japonesa |
+
+<br />
+
+## :convenience_store: Lojas
 | Nome | Descrição |
 |:----|:---------:|
 | :us: :jp: [Amazon](http://amazon.co.jp) | Loja para se comprar produtos em geral |
 
-## :book: Mangá
+<br />
 
-| Nome | Descrição |
-|:----|:---------:|
-| :jp: :us: [Binligual Manga](https://bilingualmanga.com/) | Site com mangás em japonês e com tradução em inglês com um recurso de alternância de idioma rápida | 
-| :jp: [BookLive](https://booklive.jp/download/index) | Site com mangás em japonês disponível para compra | 
-| :jp: [Honto](https://honto.jp/) | Site com mangás em japonês disponível para compra | 
-| :jp: [Mangaz](https://www.mangaz.com/) | Site com mangás em japonês disponível para compra | 
-
-## :dvd: Multimidia
+# :dvd: Multimidia
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -150,13 +173,39 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [ANNnewsCH](https://www.youtube.com/watch?v=coYw-eVU0Ks&feature=youtu.be) | Live notícias 24 hrs de Canal no YouTube |
 | :jp: [A.I.Games](https://www.youtube.com/channel/UCbFwe3COkDrbNsbMyGNCsDg/) | Canal oficial no Youtube de gameplay da KizunaIA  |
 | :jp: [Calígrafo Takumi Higashimiya](https://www.youtube.com/user/takumitohgu) | Canal do YouTube sobre caligrafia japonesa |
-| :jp:  [JpRaws](http://jpraws.net/) | :underage: Raw de materiais originais como mangás, *novels*, *doujins* e outros  |
-| :jp: [Manga Download](https://manga-download.com/) | :underage: Raw de materiais originais como mangás, *novels*, *artbooks*, revistas, e outros |
-| :jp: [Manga Zip](http://manga-zip.net/) | Raw de materiais originais como mangás, albuns musicais, e outros |
 | :jp: [Nico Nico Douga](http://www.nicovideo.jp/) |  Serviço de compartilhamento de vídeos semelhante ao Youtube muito conhecido no Japão |
 | :jp: [QVC Japan 【公式】](https://www.youtube.com/watch?v=wMo3F5IouNs&feature=youtu.be) | Live de Canal no YouTube estilo *Polishop* versão japonesa |
-| [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Radio Garden permite que você ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo |
 | :jp: [Soseki Project](http://www.sosekiproject.org/) | Conteúdo de literatura japonesa |
+
+## :clapper: Animes
+
+| Nome | Descrição |
+|:----|:---------:|
+| :us: [Animelon](https://animelon.com/) | Website para assistir animes com legendas em japonês  |
+| :us: [Kitsunekko](http://kitsunekko.net/) | Website que disponibiliza legendas de animes em japonês, inglês, chinês e coreano |
+| :us: [Terakoya Anime Channel](https://www.daiweeb.org/terakoya) | Website para assistir animes com legendas em japonês |
+
+## :green_book: Mangás
+
+| Nome | Descrição |
+|:----|:---------:|
+| :jp: [A-zmanga](http://www.a-zmanga.net/) | Raw de materiais originais como mangás, novels, doujins e outros |
+| :jp: :us: [Binligual Manga](https://bilingualmanga.com/) | Site com mangás em japonês e com tradução em inglês com um recurso de alternância de idioma rápida |
+| :jp: [BookLive](https://booklive.jp/download/index) | Site com mangás em japonês disponível para compra | 
+| :jp: [Dl-raw](https://dl-raw.net/) | Raw de materiais originais como mangás, novels, doujins e outros |
+| :jp: [Honto](https://honto.jp/) | Site com mangás em japonês disponível para compra | 
+| :jp:  [JpRaws](http://jpraws.net/) | :underage: Raw de materiais originais como mangás, *novels*, *doujins* e outros  |
+| :jp: [LoveHeaven Scan](https://lhscan.net/manga-list.html) | Site com raw de mangás em japonês, inclusive aqueles em lançamento |
+| :jp: [Mangaz](https://www.mangaz.com/) | Site com mangás em japonês disponível para compra | 
+| :jp: [Manga Zip](http://manga-zip.net/) | Raw de materiais originais como mangás, albuns musicais, e outros |
+
+## :musical_note: Músicas
+
+| Nome | Descrição |
+|:----|:---------:|
+| [Anime Song Lyrics](https://www.animesonglyrics.com/) | Letras em japonês de músicas de animes com possíveis traduções em outros idiomas |
+| :us: [Lyrical Nonsense](https://www.lyrical-nonsense.com/) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | 
+| [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo, incluindo o Japão |
 
 ## Outros
 
@@ -164,8 +213,9 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 |:----|:---------:|
 | [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
 | [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
+| :jp: [Viki](https://www.viki.com/explore?country=japan) | Assista doramas japoneses com legendas em japonês |
 
-## :mag: Torrent e Tracker
+## :arrow_down: Torrent e Trackers
 
 | Nome | Descrição |
 |:----|:---------:|
@@ -175,20 +225,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Tokyo Toshokan](https://www.tokyotosho.info/search.php) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
 | :us: [ShanaProject](https://www.shanaproject.com/) | *Tracker* de fansub |
 
-## :earth_asia: Website
-
-- [Cursos](#cursos)
-- [Estudo](#estudo)
-
-### Cursos
-
-| Nome | Descrição |
-|:----|:---------:|
-| [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese/learn/list/)| Curso de japonês oferecido pela NHK |
-| :us: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês |
-| :brazil: [Nippo](http://www.nippo.com.br/2.semanal.aula/index.php) | Website que possui um curso de Kanjis e Conversação |
-
-### Estudo
+# :earth_asia: Websites
 
 Recursos que serão de muita utilidade durante sua jornada de estudo.
 
@@ -196,21 +233,14 @@ Recursos que serão de muita utilidade durante sua jornada de estudo.
 |:----|:---------:|
 | :brazil: [Aulas de Japonês](https://aulasdejapones.com.br/) | Portal de estudo da língua japonesa com vários artigos. Possui um curso fechado chamado Programa Japonẽs Online |
 | :jp: [絵でわかる日本語](http://www.edewakaru.com/ "Entender Japonês por Imagens") | Possui vasto conteúdo para aprender japonês a partir de imagens |
-|:us: [ichi.moe](https://ichi.moe/) | Divide uma frase em palavras, procura elas no dicionário |
 | :brazil: [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas |
 | :us: [Japanese Conjugator Pratice](http://baileysnyder.com/jconj/) | Teste suas habilidades na conjugação de verbos |
 | :us: [Japanesepod101](https://www.japanesepod101.com/) | Portal de estudo da língua japonesa |
-| :us: [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji |
-| [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) | Realizar pesquisa de kanjis escrevendo | 
-| :us: [Kanji.sljfaq](http://kakijun.com/) | Website que mostra imagem em  `.png` ou `.svg` da ordem dos traços enumerados, é um site bem estilo de ser *tool* mesmo, e nos bastidores usa o [kanji-colorize](https://github.com/cayennes/kanji-colorize) que também é usado no complento do Anki [Kanji Colorizer](https://ankiweb.net/shared/info/1964372878) |
-| :jp: [Kakijun](http://kakijun.com/) |Website semelhante ao [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) nele é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. |
 | :brazil: [Kotobá](http://kotoba.com.br/) | Site com vários artigos sobre o Japão. Possui um curso fechado chamado JLPT Gaichi Taisaku, nos níveis N3, N4, N5 |
-| :us: [Lyrical Nonsense](https://www.lyrical-nonsense.com/) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | 
 | :us: [Renshuu](https://www.renshuu.org/) | Plataforma de estudo de japonês com frases e imagens |
 | :brazil: [Suki Desu](http://skdesu.com/) | Blog que possui artigos relacionados ao estudo e a cultura japonesa |
 | :us: [Tanos](http://www.tanos.co.uk/) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) | 
 | :jp: [Watanoc](http://watanoc.com/) | Website com notícias dividadas por cada nivel do JLPT(*Japanese Language Proficiency Test*) |
-| :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com  marcação quadriculada, porém sem enumeração da ordem. |
 | :us: [Japanesetest4you](https://japanesetest4you.com/) | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) |
 
 ## Contribua
@@ -221,3 +251,4 @@ Tem alguma sugestão para adicionar na lista? É só fazer o seu ***pull request
 ![creative-commons-license](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
 
 Este trabalho está sobre a licença [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/). Altere e compartilhe sem medo, mas dê os devidos créditos.
+
