@@ -152,6 +152,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Free Japanese Books](https://freejapanesebooks.com/) | Vários livros para baixar(*download*) estudar japonês para diversos níveis. |
 | :jp: [Maho](https://maho.jp/) | Livros e novels |
 | :jp: [Soseki Project](http://www.sosekiproject.org/) | Livros e conteúdo da literatura japonesa |
+| :us: [Tadoku.org](http://www.sosekiproject.org/ "Tadoku.org Livros Gratuitos") | Livros em japonês gratuitos em vários níveis de dificuldade para leitura, alguns possuem áudio e pode ser feito o download em PDF |
 
 <br />
 
