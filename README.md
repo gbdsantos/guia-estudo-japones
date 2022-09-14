@@ -57,6 +57,8 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Voracious](https://voracious.app) | Vídeo Player para aprender idiomas, com ênfase no Japonês | Linux, macOS, Windows |
 | [YACReader](https://yacreader.com) | Programa para leitura e gerenciamento(biblioteca) de mangás e quadrinhos | Linux, macOS, Windows 
 
+<br>
+
 ## :wrench: Complementos para o Anki
 
 > Fique atento a sua versão do Anki para que o complemento é compatível.
@@ -73,6 +75,8 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Large and Colorful Buttons](https://ankiweb.net/shared/info/1829090218) | Estilização do botões da tela de revisão  |
 | [True Retention](https://ankiweb.net/shared/info/613684242) | Adiciona novas métricas a janela de estatísticas  |
 
+<br>
+
 ## :busts_in_silhouette: Comunidades
 
 | Nome | Descrição |
@@ -87,17 +91,24 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :brazil: [Desafio da Erin](https://www.erin.ne.jp/pt/) | Série de video aulas para estudo de japonês |
 | :brazil: [Nippo](https://www.nippo.com.br/2.semanal.aula/) | Website que possui um curso de Kanjis e Conversação |
 
+<br>
+
 ## :books: Dicionários
 
 | Nome | Descrição |
 |:-----|:---------:|
+| 🇧🇷 [Dicionario.jp](https://dicionario.jp/ "BR -> JP")| Dicionário de JP > PT-BR e PT-BR > JP | 
 | [Glosbe](https://pt.glosbe.com/) | Dicionário multílingue, possui frases de exemplo em português de algumas palavras |
 | [Google Translate](https://translate.google.com) | Tradutor do Google | 
-| :us: [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário |
-| :us: [Jisho](https://jisho.org/)| Dicionário de japonês | 
-| :us: [Reverso Conjugation](https://conjugator.reverso.net/conjugation-japanese.html) | Conjugador de verbo de várias línguas |
-| :us: [Tangorin](https://tangorin.com/)| Dicionário de japonês |
+| 🇺🇸 [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário |
+| 🇺🇸 [Jisho](https://jisho.org/)| Dicionário de japonês | 
+| 🇯🇵 [Kotobank](https://kotobank.jp/)| Dicionário de japonês em japonês | 
+| 🇺🇸 [Reverso Conjugation](https://conjugator.reverso.net/conjugation-japanese.html) | Conjugador de verbo de várias línguas |
+| 🇺🇸 [Tangorin](https://tangorin.com/)| Dicionário de japonês |
+| 🇺🇸 [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) | Dicionário de japonês em inglês |
 | [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |
+
+<br>
 
 ## Extensões para o Firefox
 
