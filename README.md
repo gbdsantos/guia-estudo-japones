@@ -17,7 +17,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 ## :pushpin: Índice
 
 - :iphone: [Aplicativo para Celular e Software](#iphone-aplicativo-para-celular-e-software "Listagem de Aplicativos de celular e softwares para computador para incrementar o seu aprendizado")
-- :wrench: [Complementos para o Anki](#wrench-Complementos-para-o-Anki "Lista de complementos recomendados para adicionar no Anki")
+- :wrench: [Complementos para o Anki](#wrench-complementos-para-o-anki "Lista de complementos recomendados para adicionar no Anki")
 - :busts_in_silhouette: [Comunidade](#busts-in-silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
 - :tv: [Cursos](#tv-cursos)
 - :books: [Dicionários](#books-dicionários "Listagem de Dicionários")
