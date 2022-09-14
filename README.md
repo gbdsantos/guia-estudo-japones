@@ -67,9 +67,10 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Night Mode](https://ankiweb.net/shared/info/1496166067) | Tema escuro para o Anki |
 | [Heatmap Review](https://github.com/glutanimate/review-heatmap/releases) | Visualização de sequência com um gráfico de *heatmap* |
 | [Image Style Editor](https://ankiweb.net/shared/info/1593969147) | Redimensionar imagens individualmente | 
+| [Kakijun - Kanji stroke order](https://ankiweb.net/shared/info/1250448937 "Kakijun - Kanji stroke order") | Ver ordem dos traços de kanjis em gif |
 | :us: [Kanji Colorizer (stroke order diagrams)](https://ankiweb.net/shared/info/1964372878) | Cria uma imagem com a ordem dos traços enumerados de kanji em um campo chamado *Diagram*. Na descrição do complemento(em inglês) mostra como usar, caso ainda assim tenham alguma dificuldade recomendo ver este [vídeo]( https://youtu.be/JA5SJMdI3Zs) |
-| [Large and Colorful Buttons](https://ankiweb.net/shared/info/1829090218) | Estilização do botões da tela de revisão  |
 | [Kanji Grid](https://ankiweb.net/shared/info/909972618) | Complemento que faz uma busca no baralho e gera um relatório sobre kanjis aprendidos |
+| [Large and Colorful Buttons](https://ankiweb.net/shared/info/1829090218) | Estilização do botões da tela de revisão  |
 | [True Retention](https://ankiweb.net/shared/info/613684242) | Adiciona novas métricas a janela de estatísticas  |
 
 ## :busts_in_silhouette: Comunidades
