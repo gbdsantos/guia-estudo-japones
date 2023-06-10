@@ -103,7 +103,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Google Translate](https://translate.google.com) | Tradutor do Google | 
 | 🇺🇸 [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário |
 | 🇺🇸 [Jisho](https://jisho.org/)| Dicionário de japonês | 
-| 🇺🇸 [jpdb.io](https://dicionario.jp/ "jpdb.io - Um poderoso dicionário japonês, sistema de aprendizagem tudo-em-um") | Dicionário com listas de dificuldade de vocabulário de animes, novels, etc | 
+| 🇺🇸 [jpdb.io](https://jpdb.io/ "jpdb.io - Um poderoso dicionário japonês, sistema de aprendizagem tudo-em-um") | Dicionário com listas de dificuldade de vocabulário de animes, novels, etc | 
 | 🇯🇵 [Kotobank](https://kotobank.jp/)| Dicionário de japonês em japonês | 
 | 🇺🇸 [Reverso Conjugation](https://conjugator.reverso.net/conjugation-japanese.html) | Conjugador de verbo de várias línguas |
 | 🇺🇸 [Tangorin](https://tangorin.com/)| Dicionário de japonês |
@@ -116,7 +116,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 | Nome | Descrição |
 |:-----|:---------:|
-| 🇺🇸 [jpdbdatamining](https://dicionario.jp/ "Repositório no Github jpdbdatamining") | Scripts em Python que faz mineração de dados e cria planilhas com informações pedagógicas sobre mídias japonesas do [jpdb.io](https://jpdb.io/) | 
+| 🇺🇸 [jpdbdatamining](https://github.com/0xspringtime/jpdbdatamining "Repositório no Github jpdbdatamining") | Scripts em Python que faz mineração de dados e cria planilhas com informações pedagógicas sobre mídias japonesas do [jpdb.io](https://jpdb.io/) | 
 
 <br>
 
