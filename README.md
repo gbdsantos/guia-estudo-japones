@@ -26,7 +26,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 - 🧰 [Ferramentas](#hammer-and-wrench-ferramentas)
 - :video_game: [Games](#video_game-games "Listagem de games")
 - :books: [Livros](#books-livros)
-- :convenience_store: [Lojas](#convenience-store-lojas "Listagem de lojas para compra de artigos japoneses")
+- :convenience_store: [Lojas](#convenience_store-lojas "Listagem de lojas para compra de artigos japoneses")
 - :dvd: [Multimidia](#dvd-multimidia  "Categoria que contém itens relacionados a vídeos, músicas, filmes, etc")
   - :clapper: [Animes](#clapper-animes "Listagem de recursos relacionados a animes ")
   - :green_book: [Mangás](#green-book-mangás "Listagem de recursos relacionados a mangás")
@@ -166,14 +166,17 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Soseki Project](http://www.sosekiproject.org/) | Livros e conteúdo da literatura japonesa |
 | :us: [Tadoku.org](http://www.sosekiproject.org/ "Tadoku.org Livros Gratuitos") | Livros em japonês gratuitos em vários níveis de dificuldade para leitura, alguns possuem áudio e pode ser feito o download em PDF |
 
-<br />
+<br>
 
 ## :convenience_store: Lojas
 | Nome | Descrição |
 |:----|:---------:|
 | :us: :jp: [Amazon](http://amazon.co.jp) | Loja para se comprar produtos em geral |
+| 🇺🇸 🇯🇵 [Buyee](https://buyee.jp "Buyee") | Serviço de proxy para comprar produtos do Japão |
+| 🇯🇵 [Mercari](https://www.mercari.com/ "Mercari")| Marketplace estilo OLX japonês |
+| 🇯🇵 [Rakuma](https://fril.jp/ "Rakuma") | Marketplace estilo OLX japonês |
 
-<br />
+<br>
 
 ## :dvd: Multimidia
 
