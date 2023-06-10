@@ -21,6 +21,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 - :busts_in_silhouette: [Comunidade](#busts-in-silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
 - :tv: [Cursos](#tv-cursos)
 - :books: [Dicionários](#books-dicionários "Listagem de Dicionários")
+- [Diversos](#diversos "Itens gerais que podem ser úteis") 
 - [Extensões para o Firefox](#extensões-para-o-firefox "Extensões para o Firefox")
 - [Extensões para o Google Chrome](#extensões-para-o-google-chrome "Extensões para o Google Chrome")
 - 🧰 [Ferramentas](#hammer-and-wrench-ferramentas)
@@ -107,6 +108,14 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | 🇺🇸 [Tangorin](https://tangorin.com/)| Dicionário de japonês |
 | 🇺🇸 [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) | Dicionário de japonês em inglês |
 | [Tatoeba](https://tatoeba.org/por/) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |
+
+<br>
+
+## Diversos
+
+| Nome | Descrição |
+|:-----|:---------:|
+| 🇧🇷 [jpdbdatamining](https://dicionario.jp/ "Repositório no Github jpdbdatamining")| Scripts em Python que faz mineração de dados e cria planilhas com informações pedagógicas sobre mídias japonesas do [jpdb.io](https://jpdb.io/) | 
 
 <br>
 
