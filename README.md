@@ -225,7 +225,6 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 |:----|:---------:|
 | :us: [Animelon](https://animelon.com/) | Website para assistir animes com legendas em japonês  |
 | :us: [Kitsunekko](http://kitsunekko.net/) | Website que disponibiliza legendas de animes em japonês, inglês, chinês e coreano |
-| :us: [Terakoya Anime Channel](https://www.daiweeb.org/terakoya) | Website para assistir animes com legendas em japonês |
 
 <br>
 
