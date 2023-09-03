@@ -125,7 +125,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
 | 🇺🇸 [jpdbdatamining](https://github.com/0xspringtime/jpdbdatamining "Repositório no Github jpdbdatamining") | Scripts em Python que faz mineração de dados e cria planilhas com informações pedagógicas sobre mídias japonesas do [jpdb.io](https://jpdb.io/) | 
 | 🇺🇸 [Lazy Guide](https://xelieu.github.io/jp-lazy-guide/setup/ "Lazy Guide") | Guias de como instalar e configurar ferramentas para fazer *mining* com animes, mangás, light novels, visual novels |
-| 🇺🇸 [TheMoeWay](https://learnjapanese.moe/) | Diversos guias sobre como aprender japonês, corrigir fonte do computador/celular, tutorial de configuração do YOmichan. Se você tem familiaridade com inglês recomendo fortemente a leitura |
+| 🇺🇸 [TheMoeWay](https://learnjapanese.moe/) | Diversos guias sobre como aprender japonês, corrigir fonte do computador/celular, tutorial de configuração do Yomichan. Se você tem familiaridade com inglês recomendo fortemente a leitura |
 
 <br>
 
