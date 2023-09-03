@@ -21,7 +21,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 - :busts_in_silhouette: [Comunidade](#busts-in-silhouette-comunidade "Listagem de comunidades brasileiras de estudantes da língua japonesa")
 - :tv: [Cursos](#tv-cursos)
 - :books: [Dicionários](#books-dicionários "Listagem de Dicionários")
-- [Diversos](#diversos "Itens gerais que podem ser úteis") 
+- [Diversos](#diversos "Itens gerais que podem ser úteis e/ou que não se enquadram em categoria específica existente") 
 - [Extensões para o Firefox](#extensões-para-o-firefox "Extensões para o Firefox")
 - [Extensões para o Google Chrome](#extensões-para-o-google-chrome "Extensões para o Google Chrome")
 - 🧰 [Ferramentas](#hammer-and-wrench-ferramentas)
@@ -32,7 +32,6 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
   - :clapper: [Animes](#clapper-animes "Listagem de recursos relacionados a animes ")
   - :green_book: [Mangás](#green-book-mangás "Listagem de recursos relacionados a mangás")
   - :musical_note: [Músicas](#musical-note-musicas "Lista de links relacionado a música")
-  - [Outros](#outros "Tudo que não puder ser colocado nas outras categorias estará aqui")
   - :arrow_down: [Torrent & Trackers](#arrow-down-torrent-e-trackers "Listagem de trackers e torrents")
 - :earth_asia: [Websites](#earth-asia-websites "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
 - [Contribua](#contribua "Contribua com o projeto!")
@@ -119,6 +118,8 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 
 | Nome | Descrição |
 |:-----|:---------:|
+| [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
+| [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
 | 🇺🇸 [jpdbdatamining](https://github.com/0xspringtime/jpdbdatamining "Repositório no Github jpdbdatamining") | Scripts em Python que faz mineração de dados e cria planilhas com informações pedagógicas sobre mídias japonesas do [jpdb.io](https://jpdb.io/) | 
 
 <br>
@@ -208,6 +209,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Nico Nico Douga](http://www.nicovideo.jp/) |  Serviço de compartilhamento de vídeos semelhante ao Youtube muito conhecido no Japão |
 | :jp: [QVC Japan 【公式】](https://www.youtube.com/watch?v=wMo3F5IouNs&feature=youtu.be) | Live de Canal no YouTube estilo *Polishop* versão japonesa |
 | :jp: [Soseki Project](http://www.sosekiproject.org/) | Conteúdo de literatura japonesa |
+| :jp: [Viki](https://www.viki.com/explore?country=japan) | Assista doramas japoneses com legendas em japonês |
 
 <br>
 
@@ -244,16 +246,6 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Anime Song Lyrics](https://www.animesonglyrics.com/) | Letras em japonês de músicas de animes com possíveis traduções em outros idiomas |
 | :us: [Lyrical Nonsense](https://www.lyrical-nonsense.com/) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | 
 | [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo, incluindo o Japão |
-
-<br>
-
-### Outros
-
-| Nome | Descrição |
-|:----|:---------:|
-| [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
-| [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
-| :jp: [Viki](https://www.viki.com/explore?country=japan) | Assista doramas japoneses com legendas em japonês |
 
 <br>
 
