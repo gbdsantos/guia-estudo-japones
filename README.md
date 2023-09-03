@@ -46,8 +46,8 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Anki](https://apps.ankiweb.net/)| Programa de *flashcards* com o sistema de repetição espaçada(SRS) | Android, IOS, Linux, Windows |
 | :jp: [BookLive Reader](https://play.google.com/store/apps/details?id=jp.booklive.reader)| Aplicativo do BookLive Reader para comprar mangás em japonês **(Restrito a IP's do Japão)** | Android, IOS  |
 | :us: [Duolingo](https://www.duolingo.com/) | Aplicativo para estudo de japonês |  Android, IOS |
-| [ひらがな](https://play.google.com/store/apps/details?id=air.hiragana) | Aprender hiragana/katakana de uma maneira mais interativa com *mini-games*. Recomendo fortemente para iniciantes que estão começando com a língua japonesa | Android |
 | [Hello Talk](https://www.hellotalk.com/?lang=pt-br) | Aplicativo para conversar com falantes nativos de vários idiomas  |  Android, IOS |
+| [ひらがな](https://play.google.com/store/apps/details?id=air.hiragana "ひらがな Google Play Store") | Aprender hiragana/katakana de uma maneira mais interativa com *mini-games*. Recomendo fortemente para iniciantes que estão começando com a língua japonesa | Android |
 | [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | Android, IOS |
 | [KanjiTomo](https://www.kanjitomo.net/#Download) | OCR que identifica caracteres japoneses a partir de imagens | Linux, macOS, Windows |
 | [Lingodeer](https://www.lingodeer.com/) | Aplicativo com ênfase no aprendizado de idiomas asiáticos | Android, IOS |
