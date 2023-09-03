@@ -107,7 +107,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | 🇺🇸 [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/) | Conjugador de verbos a partir da forma de dicíonário |
 | 🇺🇸 [Jisho](https://jisho.org/)| Dicionário de japonês | 
 | 🇺🇸 [jpdb.io](https://jpdb.io/ "jpdb.io - Um poderoso dicionário japonês, sistema de aprendizagem tudo-em-um") | Dicionário com listas de dificuldade de vocabulário de animes, novels, etc | 
-| 🇯🇵 [Kotobank](https://kotobank.jp/)| Dicionário de japonês em japonês | 
+| 🇯🇵 [Kotobank](https://kotobank.jp/)| Dicionário monolíngue, japonês para japonês | 
 | 🇺🇸 [Reverso Conjugation](https://conjugator.reverso.net/conjugation-japanese.html) | Conjugador de verbo de várias línguas |
 | 🇺🇸 [Takoboto](https://takoboto.jp "Takoboto") |  Dicionário de japonês |
 | 🇺🇸 [Tangorin](https://tangorin.com/)| Dicionário de japonês |
