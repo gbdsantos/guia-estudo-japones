@@ -160,6 +160,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :us: [Kanji.sljfaq](https://kanji.sljfaq.org/) | Website que mostra imagem em .png ou .svg da ordem dos traços enumerados, é um site bem estilo de ser tool mesmo, e nos bastidores usa o kanji-colorize que também é usado no complento do Anki Kanji Colorizer |
 | :jp: [Kakijun](http://kakijun.com/) | Website semelhante ao Yamasa nele é possível buscar por um kanji desejado e ele mostra um .gif da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
 | :jp: [Kiji-check](https://www.kiji-check.com/) | O Suporte à Revisão de Japonês é um site que ajuda você a escrever frases em japonês corretas. |
+| 🇺🇸 [Mokuro](https://www.mokuro.moe/ "Mokuro: Leia manga com texto selecionável dentro do navegador") | Leia manga com texto selecionável dentro do navegador |
 | :us: [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
 
 <br>
