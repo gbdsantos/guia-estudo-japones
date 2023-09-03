@@ -239,10 +239,10 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Dl-raw](https://dl-raw.net/) | Raw de materiais originais como mangás, novels, doujins e outros |
 | :jp: [Honto](https://honto.jp/) | Site com mangás em japonês disponível para compra | 
 | :jp:  [JpRaws](http://jpraws.net/) | :underage: Raw de materiais originais como mangás, *novels*, *doujins* e outros  |
-| :jp: [LoveHeaven Scan](https://lhscan.net/manga-list.html) | Site com raw de mangás em japonês, inclusive aqueles em lançamento |
 | :jp: [Mangaz](https://www.mangaz.com/) | Site com mangás em japonês disponível para compra | 
 | :jp: [Manga Zip](http://manga-zip.net/) | Raw de materiais originais como mangás, albuns musicais, e outros |
 | 🇺🇸 [Mokuro Manga Collection](https://www.mokuro.moe/manga/) | Mangás disponíveis no Mokuro para ler no navegador |
+| [WeLoveManga](https://welovemanga.one) | Website com mangás em japonês, inclusive aqueles em lançamento |
 
 <br>
 
