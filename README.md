@@ -121,8 +121,10 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | Nome | Descrição |
 |:-----|:---------:|
 | 🇧🇷 [Animecards](https://aprendajp.com/posts/animecards/ "Animecards") | Guia de como criar o modelo de *cards* para o Anki criado pela comunidade estrangeira. No site também tem outros conteúdos que julgo ser interessante para quem é mais iniciante |
+| 🇺🇸 [Dicionários para Yomichan](https://foosoft.net/projects/yomichan/index.html#dictionaries "FooSoft - Yomichan") | Dicionários jmdict e kanjidic com orientações de como configurar e também de como usar a extensão Yomichan |
 | [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
 | [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
+| 🇧🇷 [jmdict_portuguese](https://github.com/elementare/jmdict_portuguese "Github - repositório jmdict_portuguese") | Dicionário para extensão Yomichan |
 | 🇺🇸 [jpdbdatamining](https://github.com/0xspringtime/jpdbdatamining "Repositório no Github jpdbdatamining") | Scripts em Python que faz mineração de dados e cria planilhas com informações pedagógicas sobre mídias japonesas do [jpdb.io](https://jpdb.io/) | 
 | 🇺🇸 [Lazy Guide](https://xelieu.github.io/jp-lazy-guide/setup/ "Lazy Guide") | Guias de como instalar e configurar ferramentas para fazer *mining* com animes, mangás, light novels, visual novels |
 | 🇺🇸 [TheMoeWay](https://learnjapanese.moe/) | Diversos guias sobre como aprender japonês, corrigir fonte do computador/celular, tutorial de configuração do Yomichan. Se você tem familiaridade com inglês recomendo fortemente a leitura |
