@@ -50,6 +50,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | Android, IOS |
 | [KanjiTomo](https://www.kanjitomo.net/#Download) | OCR que identifica caracteres japoneses a partir de imagens | Linux, macOS, Windows |
 | [Lingodeer](https://www.lingodeer.com/) | Aplicativo com ênfase no aprendizado de idiomas asiáticos | Android, IOS |
+| [Memento](https://github.com/ripose-jp/Memento) | Reprodutor de vídeo (*video player*) baseado no mpv para estudar japonês | Linux, macOS, Windows |
 | [Memrise](https://www.memrise.com/) | Aplicativo para estudo de japonês | Android, IOS |
 | [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana | Android, IOS |
 | [OCR Manga Reader](http://ocrmangareaderforandroid.sourceforge.net/#download) | O OCR Manga Reader é um aplicativo Android de código aberto(open-source) e gratuito que permite que você oculte rapidamente e procure palavras japonesas em tempo real. Não possui anúncios ou telemetria/*spyware* e não requer conexão com a Internet. Suporta o dicionário EDICT J-E, dicionário de nomes ENAMDICT(opcional), dicionário de kanji(opcional) e até 4 dicionários EPWING. Requer o Android 4.0(Ice Cream Sandwich) ou superior. | Android |
