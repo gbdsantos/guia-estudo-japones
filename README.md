@@ -275,6 +275,7 @@ Recursos que serão de muita utilidade durante sua jornada de estudo.
 
 | Nome | Descrição |
 |:----|:---------:|
+| :us: [1000 Japanese basic words](https://en.wiktionary.org/wiki/ "1000 Japanese basic words") | Um apêndice/lista de vocabulário com 1000 palavras básicas japonesas |  
 | :brazil: [Aulas de Japonês](https://aulasdejapones.com.br/) | Portal de estudo da língua japonesa com vários artigos. Possui um curso fechado chamado Programa Japonẽs Online |
 | :jp: [絵でわかる日本語](http://www.edewakaru.com/ "Entender Japonês por Imagens") | Possui vasto conteúdo para aprender japonês a partir de imagens |
 | :brazil: [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas |
