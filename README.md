@@ -121,6 +121,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | Nome | Descrição |
 |:-----|:---------:|
 | 🇧🇷 [Animecards](https://aprendajp.com/posts/animecards/ "Animecards") | Guia de como criar o modelo de *cards* para o Anki criado pela comunidade estrangeira. No site também tem outros conteúdos que julgo ser interessante para quem é mais iniciante |
+| 🇧🇷 [Como fazer seus próprios mangás pro Kindle (tutorial)](https://youtu.be/a9g1z0u7vtk?si=KTHLW9FB3K4IYBho "Como fazer seus próprios mangás pro Kindle (tutorial) por @funkypaiCat no YouTube") |
 | 🇺🇸 [Dicionários para Yomichan](https://foosoft.net/projects/yomichan/index.html#dictionaries "FooSoft - Yomichan") | Dicionários jmdict e kanjidic com orientações de como configurar e também de como usar a extensão Yomichan |
 | [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
 | [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
@@ -240,6 +241,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | :jp: [Dl-raw](https://dl-raw.net/) | Raw de materiais originais como mangás, novels, doujins e outros |
 | :jp: [Honto](https://honto.jp/) | Site com mangás em japonês disponível para compra | 
 | :jp:  [JpRaws](http://jpraws.net/) | :underage: Raw de materiais originais como mangás, *novels*, *doujins* e outros  |
+| 🇧🇷 [ManganimeDigital](https://manganime.digital "Manganime.Digital - Baixar mangás para Kindle") | Fórum para baixar mangás para o formato do Kindle (é necessário uma conta no site). |
 | :jp: [Mangaz](https://www.mangaz.com/) | Site com mangás em japonês disponível para compra | 
 | :jp: [Manga Zip](http://manga-zip.net/) | Raw de materiais originais como mangás, albuns musicais, e outros |
 | 🇺🇸 [Mokuro Manga Collection](https://www.mokuro.moe/manga/) | Mangás disponíveis no Mokuro para ler no navegador |
