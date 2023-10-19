@@ -121,7 +121,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | Nome | Descrição |
 |:-----|:---------:|
 | 🇧🇷 [Animecards](https://aprendajp.com/posts/animecards/ "Animecards") | Guia de como criar o modelo de *cards* para o Anki criado pela comunidade estrangeira. No site também tem outros conteúdos que julgo ser interessante para quem é mais iniciante |
-| 🇧🇷 [Como fazer seus próprios mangás pro Kindle (tutorial)](https://youtu.be/a9g1z0u7vtk?si=KTHLW9FB3K4IYBho "Como fazer seus próprios mangás pro Kindle (tutorial) por @funkypaiCat no YouTube") |
+| 🇧🇷 [Como fazer seus próprios mangás pro Kindle (tutorial)](https://youtu.be/a9g1z0u7vtk?si=KTHLW9FB3K4IYBho "Como fazer seus próprios mangás pro Kindle (tutorial) por @funkypaiCat no YouTube") | Tutorial de como você mesmo pode converter mangás para o formato do Kindle por @funkypaiCat no YouTube |
 | 🇺🇸 [Dicionários para Yomichan](https://foosoft.net/projects/yomichan/index.html#dictionaries "FooSoft - Yomichan") | Dicionários jmdict e kanjidic com orientações de como configurar e também de como usar a extensão Yomichan |
 | [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
 | [Fontes Japonesas](https://www.freejapanesefont.com/) | - |
