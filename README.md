@@ -30,7 +30,7 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 - :convenience_store: [Lojas](#convenience_store-lojas "Listagem de lojas para compra de artigos japoneses")
 - :dvd: [Multimidia](#dvd-multimidia  "Categoria que contém itens relacionados a vídeos, músicas, filmes, etc")
   - :clapper: [Animes](#clapper-animes "Listagem de recursos relacionados a animes ")
-  - :green_book: [Mangás](#green-book-mangás "Listagem de recursos relacionados a mangás")
+  - 📗 [Mangás](#green_book-mangás "Listagem de recursos relacionados a mangás")
   - :musical_note: [Músicas](#musical-note-musicas "Lista de links relacionado a música")
   - :arrow_down: [Torrent & Trackers](#arrow-down-torrent-e-trackers "Listagem de trackers e torrents")
 - :earth_asia: [Websites](#earth-asia-websites "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
@@ -235,13 +235,13 @@ Recursos marcado com este emoji :underage: podem ter conteúdo que não é adequ
 | Nome | Descrição |
 |:----|:---------:|
 | :jp: [A-zmanga](http://www.a-zmanga.net/) | Raw de materiais originais como mangás, novels, doujins e outros |
-| :jp: :us: [Binligual Manga](https://bilingualmanga.com/) | Site com mangás em japonês e com tradução em inglês com um recurso de alternância de idioma rápida |
+| :jp: :us: ~~[Binligual Manga](https://bilingualmanga.com/)~~ | Site com mangás em japonês e com tradução em inglês com um recurso de alternância de idioma rápida **(depreciado)** |
 | :jp: [BookLive](https://booklive.jp/download/index) | Site com mangás em japonês disponível para compra | 
-| :jp: [Dl-raw](https://dl-raw.net/) | Raw de materiais originais como mangás, novels, doujins e outros |
+| :jp: [Dl-raw](https://dl-raw.ac "DL-Raw - Manga Raw, leia de graça") | Raw de materiais originais como mangás, novels, doujins e outros |
 | :jp: [Honto](https://honto.jp/) | Site com mangás em japonês disponível para compra | 
 | :jp:  [JpRaws](http://jpraws.net/) | :underage: Raw de materiais originais como mangás, *novels*, *doujins* e outros  |
 | :jp: [Mangaz](https://www.mangaz.com/) | Site com mangás em japonês disponível para compra | 
-| :jp: [Manga Zip](http://manga-zip.net/) | Raw de materiais originais como mangás, albuns musicais, e outros |
+| 🇯🇵 [Manga Zip](https://manga-zip.info/home.i1 "MANGA ZIP - Download Free Raw Manga") | Raw de materiais originais como mangás, albuns musicais, e outros |
 | 🇺🇸 [Mokuro Manga Collection](https://www.mokuro.moe/manga/) | Mangás disponíveis no Mokuro para ler no navegador |
 | [WeLoveManga](https://welovemanga.one) | Website com mangás em japonês, inclusive aqueles em lançamento |
 
