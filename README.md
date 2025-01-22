@@ -33,6 +33,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
   - 📗 [Mangás](#green_book-mangás "Listagem de recursos relacionados a mangás")
   - 🎵 [Músicas](#musical_note-musicas "Lista de links relacionado a música")
   - ⬇️ [Torrent & Trackers](#arrow_down-torrent-e-trackers "Listagem de trackers e torrents")
+- [Tutoriais](#tutoriais "Tutorias de ferramentas e coisas que podem ser úteis")  
 - 🌏 [Websites](#earth_asia-websites "Lista de sites em geral que estão relacionados ao estudo da língua japonesa e cultura japonesa")
 - [Contribua](#contribua "Contribua com o projeto!")
 - ©️ [Licença](#copyright-licença "Licenças deste trabalho")
@@ -120,14 +121,12 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 
 | Nome | Descrição |
 |:-----|:---------:|
-| 🇧🇷 [Animecards](https://aprendajp.com/posts/animecards "Animecards") | Guia de como criar o modelo de *cards* para o Anki criado pela comunidade estrangeira. No site também tem outros conteúdos que julgo ser interessante para quem é mais iniciante |
 | 🇺🇸 [Dicionários para Yomichan](https://foosoft.net/projects/yomichan/index.html#dictionaries "FooSoft - Yomichan") | Dicionários jmdict e kanjidic com orientações de como configurar e também de como usar a extensão Yomichan |
 | [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
 | [Fontes Japonesas](https://www.freejapanesefont.com) | - |
 | 🇧🇷 [jmdict_portuguese](https://github.com/elementare/jmdict_portuguese "Github - repositório jmdict_portuguese") | Dicionário para extensão Yomichan |
 | 🇺🇸 [jpdbdatamining](https://github.com/0xspringtime/jpdbdatamining "Repositório no Github jpdbdatamining") | Scripts em Python que faz mineração de dados e cria planilhas com informações pedagógicas sobre mídias japonesas do [jpdb.io](https://jpdb.io) | 
-| 🇺🇸 [Lazy Guide](https://xelieu.github.io/jp-lazy-guide/setup "Lazy Guide") | Guias de como instalar e configurar ferramentas para fazer *mining* com animes, mangás, light novels, visual novels |
-| 🇺🇸 [TheMoeWay](https://learnjapanese.moe) | Diversos guias sobre como aprender japonês, corrigir fonte do computador/celular, tutorial de configuração do Yomichan. Se você tem familiaridade com inglês recomendo fortemente a leitura |
+
 
 <br>
 
@@ -227,6 +226,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 |:----|:---------:|
 | 🇺🇸 [Animelon](https://animelon.com) | Website para assistir animes com legendas em japonês  |
 | 🇺🇸 [Kitsunekko](http://kitsunekko.net) | Website que disponibiliza legendas de animes em japonês, inglês, chinês e coreano |
+| [Jimaku](https://jimaku.cc "Jimaku - Website que disponibiliza legendas de animes em japonês") | Website que disponibiliza legendas de animes em japonês. Uma alternativa ao Kitsunekko, possui uma forma de pesquisa melhor e referência do anime para o Anilist |
 
 <br>
 
@@ -266,6 +266,17 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | 🇺🇸 [Nyaa.si](https://nyaa.si) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
 | 🇯🇵 [Tokyo Toshokan](https://www.tokyotosho.info/search.php) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
 | 🇺🇸 [ShanaProject](https://www.shanaproject.com) | *Tracker* de fansub |
+
+<br>
+
+## Tutoriais
+
+| Nome | Descrição |
+|:-----|:---------:|
+| 🇧🇷 [Animecards](https://aprendajp.com/posts/animecards "Animecards") | Guia de como criar o modelo de *cards* para o Anki criado pela comunidade estrangeira. No site também tem outros conteúdos que julgo ser interessante para quem é mais iniciante |
+| 🇧🇷 [Como fazer seus próprios mangás pro Kindle (tutorial)](https://youtu.be/a9g1z0u7vtk?si=KTHLW9FB3K4IYBho "Como fazer seus próprios mangás pro Kindle (tutorial) por @funkypaiCat no YouTube") |
+| 🇺🇸 [Lazy Guide](https://xelieu.github.io/jp-lazy-guide/setup "Lazy Guide") | Guias de como instalar e configurar ferramentas para fazer *mining* com animes, mangás, light novels, visual novels |
+| 🇺🇸 [TheMoeWay](https://learnjapanese.moe) | Diversos guias sobre como aprender japonês, corrigir fonte do computador/celular, tutorial de configuração do Yomichan. Se você tem familiaridade com inglês recomendo fortemente a leitura |
 
 <br>
 
