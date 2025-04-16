@@ -273,9 +273,10 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 
 | Nome | Descrição |
 |:-----|:---------:|
+| 🇺🇸 [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/setup/ "Immersion-Based Japanese Learning") | Tudo o que você precisa e direto ao ponto para começar aprendizagem de japonês baseada em imersão do zero. Faz menção até a outros recursos adicionados abaixo. Se tiver alguma familiaridade com inglês recomendo fortemente a leitura, o link vai para a aba de "Setup" com guia sucinto de como configurar as ferramentas primordiais para aplicar o estudo por imersão mas você pode explorar os conteúdos das outras seções |
 | 🇧🇷 [Animecards](https://aprendajp.com/posts/animecards "Animecards") | Guia de como criar o modelo de *cards* para o Anki criado pela comunidade estrangeira. No site também tem outros conteúdos que julgo ser interessante para quem é mais iniciante |
 | 🇧🇷 [Como fazer seus próprios mangás pro Kindle (tutorial)](https://youtu.be/a9g1z0u7vtk?si=KTHLW9FB3K4IYBho "Como fazer seus próprios mangás pro Kindle (tutorial) por @funkypaiCat no YouTube") |
-| 🇺🇸 [Lazy Guide](https://xelieu.github.io/jp-lazy-guide/setup "Lazy Guide") | Guias de como instalar e configurar ferramentas para fazer *mining* com animes, mangás, light novels, visual novels |
+| 🇺🇸 [Lazy Guide](https://lazyguidejp.github.io/jp-lazy-guide/setup "Lazy Guide") | Guias de como instalar e configurar ferramentas para fazer *mining* com animes, mangás, light novels, visual novels |
 | 🇺🇸 [TheMoeWay](https://learnjapanese.moe) | Diversos guias sobre como aprender japonês, corrigir fonte do computador/celular, tutorial de configuração do Yomichan. Se você tem familiaridade com inglês recomendo fortemente a leitura |
 
 <br>
