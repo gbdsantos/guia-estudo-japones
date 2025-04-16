@@ -126,7 +126,8 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | [Fontes Japonesas](https://www.freejapanesefont.com) | - |
 | 🇧🇷 [jmdict_portuguese](https://github.com/elementare/jmdict_portuguese "Github - repositório jmdict_portuguese") | Dicionário para extensão Yomichan |
 | 🇺🇸 [jpdbdatamining](https://github.com/0xspringtime/jpdbdatamining "Repositório no Github jpdbdatamining") | Scripts em Python que faz mineração de dados e cria planilhas com informações pedagógicas sobre mídias japonesas do [jpdb.io](https://jpdb.io) | 
-
+| 🇺🇸 [Anki Mining Deck Template](https://github.com/friedrich-de/Basic-Mining-Deck?tab=readme-ov-file "Mining Deck Template") | Template de carta do Anki para fazer *mining* | 
+| 🇺🇸 [Anki Mining Deck Template](https://github.com/rudnam/JP-study "Mining Deck Template") | Outra opção de template de carta do Anki para fazer *mining* | 
 
 <br>
 
