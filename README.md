@@ -144,6 +144,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 |:----|:---------:|
 | 🇺🇸 [Anki Quick Adder](https://chrome.google.com/webstore/detail/gpbcbbajoagdgnokieocaplbhkiidmmb)| Adicionar cartas no Anki direto pelo navegador |
 | 🇺🇸 [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)| *OCR*(Optical Character Recognition) que extrai o texto de imagens, vídeos e PDF |
+| [Furigana Maker](https://chromewebstore.google.com/detail/furigana-maker/heodojceeinbkfjfilnfminlkgbacpfp "Furigana Maker - Adicione furigana a textos em japonês em qualquer página") | Adiciona furigana em textos automaticamente em qualquer página. Interessante que existe uma opção de filtro para adicionar ou remover furigana para palavras do JLPT N5 e N4 |
 | [Google Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt) | Google Tradutor com funcionalidade parecida com a do Rikai-kun |
 | [IPA Furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) | Adiciona furigana nos textos de websites |
 | 🇧🇷 [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl) | Assistir filmes e séries no idioma que você estuda na Netflix |
@@ -166,6 +167,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | 🇯🇵 [Kakijun](http://kakijun.com) | Website semelhante ao Yamasa nele é possível buscar por um kanji desejado e ele mostra um .gif da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
 | 🇯🇵 [Kiji-check](https://www.kiji-check.com) | O Suporte à Revisão de Japonês é um site que ajuda você a escrever frases em japonês corretas. |
 | 🇺🇸 [Mokuro](https://www.mokuro.moe "Mokuro: Leia manga com texto selecionável dentro do navegador") | Leia manga com texto selecionável dentro do navegador |
+| 🇺🇸 [Nadeshiko](https://nadeshiko.co "Uma ferramenta para pesquisar palavras e frases em japonês em vários contextos") | Uma ferramenta para pesquisar palavras e frases em japonês em vários contextos. Possui integração com o Anki |
 | 🇺🇸 [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
 
 <br>
