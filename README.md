@@ -62,7 +62,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 
 <br>
 
-## :wrench: Complementos para o Anki
+## 🔧 Complementos para o Anki
 
 > Fique atento a sua versão do Anki para que o complemento é compatível.
 
@@ -75,6 +75,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | [Kakijun - Kanji stroke order](https://ankiweb.net/shared/info/1250448937 "Kakijun - Kanji stroke order") | Ver ordem dos traços de kanjis em gif |
 | 🇺🇸 [Kanji Colorizer (stroke order diagrams)](https://ankiweb.net/shared/info/1964372878) | Cria uma imagem com a ordem dos traços enumerados de kanji em um campo chamado *Diagram*. Na descrição do complemento(em inglês) mostra como usar, caso ainda assim tenham alguma dificuldade recomendo ver este [vídeo]( https://youtu.be/JA5SJMdI3Zs) |
 | [Kanji Grid](https://ankiweb.net/shared/info/909972618) | Complemento que faz uma busca no baralho e gera um relatório sobre kanjis aprendidos |
+| [Kanji Grid Kuube](https://ankiweb.net/shared/info/1610304449 "Anki Addons - Kanji Grid Kuube") | Faz a mesma coisa que o *add-on* acima, mas compatível com as versões do Anki 23.10+ com melhorias e correções de bugs. Gera um relatório sobre kanjis aprendidos, é possível selecionar categorias de listas (ex: JLPT) e especificar data limite para ele considerar no resultado |
 | [Large and Colorful Buttons](https://ankiweb.net/shared/info/1829090218) | Estilização do botões da tela de revisão  |
 | [True Retention](https://ankiweb.net/shared/info/613684242) | Adiciona novas métricas a janela de estatísticas  |
 
