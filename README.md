@@ -43,22 +43,22 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ## :iphone: Aplicativo para Celular e Software
 
 | Nome | Descrição | Plataformas |
-|:-----|:---------:|:-----------:|
-| [Anki](https://apps.ankiweb.net)| Programa de *flashcards* com o sistema de repetição espaçada(SRS) | Android, IOS, Linux, Windows |
-| 🇯🇵 [BookLive Reader](https://play.google.com/store/apps/details?id=jp.booklive.reader)| Aplicativo do BookLive Reader para comprar mangás em japonês **(Restrito a IP's do Japão)** | Android, IOS  |
-| 🇺🇸 [Duolingo](https://www.duolingo.com) | Aplicativo para estudo de japonês |  Android, IOS |
-| [Hello Talk](https://www.hellotalk.com/?lang=pt-br) | Aplicativo para conversar com falantes nativos de vários idiomas  |  Android, IOS |
+|:---- |:--------- |:----------- |
+| [Anki](https://apps.ankiweb.net)| Programa de *flashcards* com o sistema de repetição espaçada(SRS) | Android, iOS, Linux, Windows |
+| 🇯🇵 [BookLive Reader](https://play.google.com/store/apps/details?id=jp.booklive.reader)| Aplicativo do BookLive Reader para comprar mangás em japonês **(Restrito a IP's do Japão)** | Android, iOS  |
+| 🇺🇸 [Duolingo](https://www.duolingo.com) | Aplicativo para estudo de japonês |  Android, iOS |
+| [Hello Talk](https://www.hellotalk.com/?lang=pt-br) | Aplicativo para conversar com falantes nativos de vários idiomas  |  Android, iOS |
 | [ひらがな](https://play.google.com/store/apps/details?id=air.hiragana "ひらがな Google Play Store") | Aprender hiragana/katakana de uma maneira mais interativa com *mini-games*. Recomendo fortemente para iniciantes que estão começando com a língua japonesa | Android |
-| [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | Android, IOS |
+| [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) | Aplicativo para estudar kanjis | Android, iOS |
 | [KanjiTomo](https://www.kanjitomo.net/#Download) | OCR que identifica caracteres japoneses a partir de imagens | Linux, macOS, Windows |
-| [Lingodeer](https://www.lingodeer.com) | Aplicativo com ênfase no aprendizado de idiomas asiáticos | Android, IOS |
+| [Lingodeer](https://www.lingodeer.com) | Aplicativo com ênfase no aprendizado de idiomas asiáticos | Android, iOS |
 | [Memento](https://github.com/ripose-jp/Memento) | Reprodutor de vídeo (*video player*) baseado no mpv para estudar japonês | Linux, macOS, Windows |
-| [Memrise](https://www.memrise.com) | Aplicativo para estudo de japonês | Android, IOS |
-| [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana | Android, IOS |
+| [Memrise](https://www.memrise.com) | Aplicativo para estudo de japonês | Android, iOS |
+| [Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana | Android, iOS |
 | [OCR Manga Reader](http://ocrmangareaderforandroid.sourceforge.net/#download) | O OCR Manga Reader é um aplicativo Android de código aberto(open-source) e gratuito que permite que você oculte rapidamente e procure palavras japonesas em tempo real. Não possui anúncios ou telemetria/*spyware* e não requer conexão com a Internet. Suporta o dicionário EDICT J-E, dicionário de nomes ENAMDICT(opcional), dicionário de kanji(opcional) e até 4 dicionários EPWING. Requer o Android 4.0(Ice Cream Sandwich) ou superior. | Android |
 | [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine | Windows |
 | [Voracious](https://voracious.app) | Vídeo Player para aprender idiomas, com ênfase no Japonês | Linux, macOS, Windows |
-| [YACReader](https://yacreader.com) | Programa para leitura e gerenciamento(biblioteca) de mangás e quadrinhos | Linux, macOS, Windows 
+| [YACReader](https://yacreader.com) | Programa para leitura e gerenciamento(biblioteca) de mangás e quadrinhos | Linux, macOS, Windows |
 
 <br>
 
@@ -92,7 +92,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ## :tv: Cursos
 
 | Nome | Descrição |
-|:-----|:---------:|
+|:---- |:--------- |
 | 🇧🇷 [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese) | Curso de japonês oferecido pela NHK |
 | 🇧🇷 [Desafio da Erin](https://www.erin.ne.jp/pt) | Série de video aulas para estudo de japonês |
 | 🇧🇷 [Nippo](https://www.nippo.com.br/2.semanal.aula) | Website que possui um curso de Kanjis e Conversação |
@@ -102,7 +102,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ## :books: Dicionários
 
 | Nome | Descrição |
-|:-----|:---------:|
+|:---- |:--------- |
 | 🇧🇷 [Dicionario.jp](https://dicionario.jp "Dicionário bilíngue BR -> JP")| Dicionário bilíngue de JP > PT-BR e PT-BR > JP | 
 | [Glosbe](https://pt.glosbe.com) | Dicionário multílingue, possui frases de exemplo em português de algumas palavras |
 | [Google Translate](https://translate.google.com) | Tradutor do Google | 
@@ -121,7 +121,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ## Diversos
 
 | Nome | Descrição |
-|:-----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [Dicionários para Yomichan](https://foosoft.net/projects/yomichan/index.html#dictionaries "FooSoft - Yomichan") | Dicionários jmdict e kanjidic com orientações de como configurar e também de como usar a extensão Yomichan |
 | [Emoji](https://github.com/Ladicle/emoji) | Pack de imagens de emojis japoneses |
 | [Fontes Japonesas](https://www.freejapanesefont.com) | - |
@@ -135,14 +135,14 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ## Extensões para o Firefox
 
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [Mainichi](https://addons.mozilla.org/pt-BR/firefox/addon/mainichi) | Exibe uma nova palavra em japonês toda vez que uma nova aba é aberta |
 | 🇺🇸 [Rikai-chan](http://www.polarcloud.com/rikaichan) | Adiciona furigana nos textos de websites |
 
 ## Extensões para o Google Chrome
 
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [Anki Quick Adder](https://chrome.google.com/webstore/detail/gpbcbbajoagdgnokieocaplbhkiidmmb)| Adicionar cartas no Anki direto pelo navegador |
 | 🇺🇸 [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj)| *OCR*(Optical Character Recognition) que extrai o texto de imagens, vídeos e PDF |
 | [Furigana Maker](https://chromewebstore.google.com/detail/furigana-maker/heodojceeinbkfjfilnfminlkgbacpfp "Furigana Maker - Adicione furigana a textos em japonês em qualquer página") | Adiciona furigana em textos automaticamente em qualquer página. Interessante que existe uma opção de filtro para adicionar ou remover furigana para palavras do JLPT N5 e N4 |
@@ -159,7 +159,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ## :hammer_and_wrench: Ferramentas
 
 | Nome | Descrição | 
-|:-----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [DownSub](https://downsub.com) | O DownSub pode baixar legendas diretamente do Youtube, VIU, Viki, Vlive e muito mais. Suporta o download de todos os formatos de legendas, como: SRT, TXT, VTT. O DownSub não força o usuário a baixar ou instalar qualquer tipo de extensões ou software de terceiros. Fornecemos um método on-line para baixar legendas digitando o URL do vídeo e clicando em Download. |
 | [ichi.moe](https://ichi.moe) | Divide uma frase em palavras, procura elas no dicionário |
 | 🇺🇸 [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji |
@@ -173,17 +173,26 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 
 <br>
 
+## Fontes
+
+- [FontFree](https://fontfree.me "FontFree - Fontes japonesas personalizadas e gratuitas")
+- [Booth](https://booth.pm/en "Booth - Fontes personalizadas")
+- [Google Fonts](https://fonts.google.com/?lang=ja_Jpan "Google Fonts - Japonês")
+
+<br>
+
 ## :video_game: Games
 
 | Nome | Descrição | Plataforma |
-|:-----|:---------:|:----------:|
+|:---- |:--------- |:---------- |
 | 🇯🇵 [美文字トレーニング(Bimoji Training)](https://mega.nz/#!vyATTSiQ!Iglv3P4DGQh2Xfne6A43yJ98ZL-6ckQ84NdfdctBuu0) | Game para praticar escrita/caligrafia, a senha para descompactar o arquivo é: `RomHere.com` [fonte](https://romhere.com/roms/nintendo-ds/ds-bimoji-training/jpn) | Nintendo DS |
 | 🇯🇵 [Freem](https://www.freem.ne.jp) | Website que tem vários jogos em japonês | - |
-| 🇯🇵 [Illust Chainer](https://play.google.com/store/apps/details?id=com.gunsturn.illustchainer) |*Shiritori* multiplayer | Mobile(android) |
-| 🇯🇵 [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Game de Puzzle | Mobile(android) |
-| 🇯🇵 [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Game estilo RPG | Mobile(android) |
-| 🇯🇵 [Sword Art Online: Memory Defragment](https://play.google.com/store/apps/details?id=com.bandainamcoent.saomd) | Game da série Sword Art Online  | Mobile(android) |
-|[WoWRoms](https://wowroms.com/en/roms/list?search=Japan) | Games em japonês para diversas plataformas. Principalmente para Nintendo | |
+| 🇯🇵 [Illust Chainer](https://play.google.com/store/apps/details?id=com.gunsturn.illustchainer) |*Shiritori* multiplayer | Android |
+| 🇯🇵 [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Game de Puzzle | Android |
+| 🇯🇵 [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Game estilo RPG | Android |
+| 🇯🇵 [Sword Art Online: Memory Defragment](https://play.google.com/store/apps/details?id=com.bandainamcoent.saomd) | Game da série Sword Art Online  | Android |
+|[WoWRoms](https://wowroms.com/en/roms/list?search=Japan) | Games em japonês para diversas plataformas. Principalmente para Nintendo | - |
+
 > Alguns jogos podem ter trava regional.
 
 <br>
@@ -191,7 +200,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ## :books: Livros
 
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [Free Japanese Books](https://freejapanesebooks.com) | Vários livros para baixar(*download*) estudar japonês para diversos níveis. |
 | 🇯🇵 [Maho](https://maho.jp) | Livros e novels |
 | 🇯🇵 [Soseki Project](http://www.sosekiproject.org) | Livros e conteúdo da literatura japonesa |
@@ -200,8 +209,9 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 <br>
 
 ## :convenience_store: Lojas
+
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 🇯🇵 [Amazon](http://amazon.co.jp) | Loja para se comprar produtos em geral |
 | 🇺🇸 🇯🇵 [Buyee](https://buyee.jp "Buyee") | Serviço de proxy para comprar produtos do Japão |
 | 🇯🇵 [Mercari](https://www.mercari.com "Mercari")| Marketplace estilo OLX japonês |
@@ -211,8 +221,10 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 
 ## :dvd: Multimidia
 
+Canais no YouTube e mídias no geral.
+
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [Anime Chat](http://anime-chat.jp) | Site onde você pode aprender japonês conversando com um personagem de anime. |
 | 🇯🇵 [ANNnewsCH](https://www.youtube.com/watch?v=coYw-eVU0Ks&feature=youtu.be) | Live notícias 24 hrs de Canal no YouTube |
 | 🇯🇵 [A.I.Games](https://www.youtube.com/channel/UCbFwe3COkDrbNsbMyGNCsDg) | Canal oficial no Youtube de gameplay da KizunaIA  |
@@ -227,7 +239,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ### :clapper: Animes
 
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [Animelon](https://animelon.com) | Website para assistir animes com legendas em japonês  |
 | 🇺🇸 [Kitsunekko](http://kitsunekko.net) | Website que disponibiliza legendas de animes em japonês, inglês, chinês e coreano |
 | [Jimaku](https://jimaku.cc "Jimaku - Website que disponibiliza legendas de animes em japonês") | Website que disponibiliza legendas de animes em japonês. Uma alternativa ao Kitsunekko, possui uma forma de pesquisa melhor e referência do anime para o Anilist |
@@ -237,7 +249,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ### :green_book: Mangás
 
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇯🇵 [A-zmanga](http://www.a-zmanga.net) | 🔞 Raw de materiais originais como mangás, novels, doujins e outros |
 | 🇯🇵 🇺🇸 ~~[Binligual Manga](https://bilingualmanga.com)~~ | Site com mangás em japonês e com tradução em inglês com um recurso de alternância de idioma rápida **(depreciado)** |
 | 🇯🇵 [BookLive](https://booklive.jp/download/index) | Site com mangás em japonês disponível para compra | 
@@ -254,7 +266,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ### :musical_note: Músicas
 
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | [Anime Song Lyrics](https://www.animesonglyrics.com) | Letras em japonês de músicas de animes com possíveis traduções em outros idiomas |
 | 🇺🇸 [Lyrical Nonsense](https://www.lyrical-nonsense.com) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | 
 | [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo, incluindo o Japão |
@@ -264,7 +276,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ### :arrow_down: Torrent e Trackers
 
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [ACGNX](https://www.acgnx.se) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
 | 🇺🇸 [Anidex](https://anidex.info/?id=7,8) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
 | 🇺🇸 [Nyaa.si](https://nyaa.si) | *Tracker* de midias japonesas tais como animes, mangás light-novels, música, games, etc |
@@ -276,7 +288,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 ## Tutoriais
 
 | Nome | Descrição |
-|:-----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/setup/ "Immersion-Based Japanese Learning") | Tudo o que você precisa e direto ao ponto para começar aprendizagem de japonês baseada em imersão do zero. Faz menção até a outros recursos adicionados abaixo. Se tiver alguma familiaridade com inglês recomendo fortemente a leitura, o link vai para a aba de "Setup" com guia sucinto de como configurar as ferramentas primordiais para aplicar o estudo por imersão mas você pode explorar os conteúdos das outras seções |
 | 🇧🇷 [Animecards](https://aprendajp.com/posts/animecards "Animecards") | Guia de como criar o modelo de *cards* para o Anki criado pela comunidade estrangeira. No site também tem outros conteúdos que julgo ser interessante para quem é mais iniciante |
 | 🇺🇸 [Animecards Site](https://animecards.site "Animecards") | É o guia no qual o item acima Animecards é inspirado. Guia de como criar o modelo de *cards* para o Anki criado pela comunidade estrangeira. No site também tem outros conteúdos que julgo ser interessante para quem é mais iniciante |
@@ -288,10 +300,10 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 
 ## :earth_asia: Websites
 
-Recursos que serão de muita utilidade durante sua jornada de estudo.
+Recursos gerais que podem ser de muita utilidade durante sua jornada de estudo.
 
 | Nome | Descrição |
-|:----|:---------:|
+|:---- |:--------- |
 | 🇺🇸 [1000 Japanese basic words](https://en.wiktionary.org/wiki "1000 Japanese basic words") | Um apêndice/lista de vocabulário com 1000 palavras básicas japonesas |  
 | 🇧🇷 [Aulas de Japonês](https://aulasdejapones.com.br) | Portal de estudo da língua japonesa com vários artigos. Possui um curso fechado chamado Programa Japonẽs Online |
 | 🇯🇵 [Chigai All Guide](https://chigai-allguide.com "Comparação entre duas palavras semelhantes") | Comparação entre duas palavras parecidas com explicação |
