@@ -1,0 +1,30 @@
+:root {
+  --vp-c-brand-1: #BC002D;
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    90deg,
+  #FFCDD2,
+  #BC002D
+  );
+}
+
+.dark {
+  --vp-c-bg: #0D0D0D;
+  --vp-c-bg-soft: #161616;
+}
+
+.VPButton.brand {
+  background-color: #BC002D !important;
+  color: white !important;
+  border-color: #BC002D !important;
+}
+
+/* Features styles */
+/* .VPHome .title,
+.VPContent .VPDoc .title {
+  background: linear-gradient(90deg, #E2474F, #F36D5D, #FFA08A);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+} */
