@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/guia-estudo-japones/',
   lang: 'pt-BR',
   title: "Guia de Estudo de Japonês",
   description: "Curadoria de recursos para o aprendizado de japonês.",
@@ -13,7 +14,15 @@ export default defineConfig({
       { text: 'Recursos', link: '/resources' }
     ],
 
-    sidebar: [],
+    sidebar: [
+      // {
+      //   text: 'Examples',
+      //   items: [
+      //     { text: 'Markdown Examples', link: '/markdown-examples' },
+      //     { text: 'Runtime API Examples', link: '/api-examples' }
+      //   ]
+      // }
+    ],
 
     outline: {
       label: "Nesta página"
@@ -25,7 +34,8 @@ export default defineConfig({
     },
 
     footer: {
-      message: "Feito com ❤"
+      message: "Feito com ❤",
+      // copyright: "teste"
     },
 
     socialLinks: [
