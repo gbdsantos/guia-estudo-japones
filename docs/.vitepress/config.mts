@@ -14,15 +14,7 @@ export default defineConfig({
       { text: 'Recursos', link: '/resources' }
     ],
 
-    sidebar: [
-      // {
-      //   text: 'Examples',
-      //   items: [
-      //     { text: 'Markdown Examples', link: '/markdown-examples' },
-      //     { text: 'Runtime API Examples', link: '/api-examples' }
-      //   ]
-      // }
-    ],
+    sidebar: [],
 
     outline: {
       label: "Nesta página"
@@ -34,8 +26,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: "Feito com ❤",
-      // copyright: "teste"
+      message: "Feito com ❤"
     },
 
     socialLinks: [
