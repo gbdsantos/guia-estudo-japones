@@ -169,7 +169,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | 🇯🇵 [Kiji-check](https://www.kiji-check.com) | O Suporte à Revisão de Japonês é um site que ajuda você a escrever frases em japonês corretas. |
 | 🇺🇸 [Mokuro](https://www.mokuro.moe "Mokuro: Leia manga com texto selecionável dentro do navegador") | Leia manga com texto selecionável dentro do navegador |
 | 🇺🇸 [Nadeshiko](https://nadeshiko.co "Uma ferramenta para pesquisar palavras e frases em japonês em vários contextos") | Uma ferramenta para pesquisar palavras e frases em japonês em vários contextos. Possui integração com o Anki |
-| 🇺🇸 [Yamasa](https://www.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm) | Website com em que é possível buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
+| 🇺🇸 [Yamasa](https://db.yamasa.org/ocjs/kanjidic.nsf/SearchKanji3?OpenForm "Yamasa") | Buscar por um kanji desejado e ele mostra um `.gif` da ordem dos traços com marcação quadriculada, porém sem enumeração da ordem |
 
 <br>
 
@@ -259,6 +259,7 @@ Canais no YouTube e mídias no geral.
 | 🇯🇵 [Mangaz](https://www.mangaz.com) | 🔞 Site com mangás em japonês disponível para compra | 
 | 🇯🇵 [Manga Zip](https://manga-zip.info/home.i1 "MANGA ZIP - Download Free Raw Manga") | Raw de materiais originais como mangás, albuns musicais, e outros |
 | 🇯🇵 [Mokuro Manga Collection](https://www.mokuro.moe/manga) | Mangás disponíveis no Mokuro para ler no navegador |
+| [Mokuro Catálogo Completo](https://nyaa.si/view/1883088) | Disponibilizado no Nyaa.si |
 | [WeLoveManga](https://welovemanga.one) | Website com mangás em japonês, inclusive aqueles em lançamento |
 
 <br>
