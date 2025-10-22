@@ -205,6 +205,8 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | 🇯🇵 [Maho](https://maho.jp) | Livros e novels |
 | 🇯🇵 [Soseki Project](http://www.sosekiproject.org) | Livros e conteúdo da literatura japonesa |
 | 🇺🇸 [Tadoku.org](http://www.sosekiproject.org "Tadoku.org Livros Gratuitos") | Livros em japonês gratuitos em vários níveis de dificuldade para leitura, alguns possuem áudio e pode ser feito o download em PDF |
+| ⭐🇺🇸 [Tadoku.org](http:/https://tadoku.org/japanese/en/free-books-en "Tadoku.org Livros Gratuitos") | Livros em japonês gratuitos em vários níveis de dificuldade para leitura, alguns possuem áudio e pode ser feito o download em PDF |
+| ⭐🇯🇵 [日本語多読道場 - Yomujp](https://yomujp.com "日本語多読道場 - Yomujp.com") | Diversos pequenos textos separado por níveis para leitura com e áudio. Recomendo bastante para fazer imersão |
 
 <br>
 
