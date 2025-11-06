@@ -2,6 +2,8 @@
 
 Este repositório é uma espécie de índice com links utéis com foco para estudantes da língua japonesa que falam português.
 
+Caso tenha alguma sugestão de recurso você pode estar criando uma nova *[issue](https://github.com/gbdsantos/guia-estudo-japones/issues "Guia Estudo de Japonês - Issues")*.
+
 Inspirado no repositório [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese), se você tem alguma familiaridade com o inglês recomendo fortemente que o veja.
 
 ## :memo: Legenda
