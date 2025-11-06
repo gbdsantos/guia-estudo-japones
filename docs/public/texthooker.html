@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja" id="html-root" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Texthooker Japonês</title>
+    <style>
+      :root {
+        --bg-color: #f4f4f4;
+        --text-color: #1a1a1a;
+        --border-color: #ccc;
+        --textarea-bg: #ffffff;
+        --textarea-text: #000000;
+        --placeholder-color: #777;
+        --button-bg: #e0e0e0;
+        --button-text: #000;
+      }
+
+      html.dark {
+        --bg-color: #1e1e1e;
+        --text-color: #e0e0e0;
+        --border-color: #333;
+        --textarea-bg: #2a2a2a;
+        --textarea-text: #f0f0f0;
+        --placeholder-color: #888;
+        --button-bg: #333;
+        --button-text: #fff;
+      }
+
+      body {
+        background: var(--bg-color);
+        color: var(--text-color);
+        font-family: sans-serif;
+        max-width: 960px;
+        margin: 20px auto;
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+
+      p {
+        margin-bottom: 10px;
+      }
+
+      textarea {
+        background-color: var(--textarea-bg);
+        color: var(--textarea-text);
+        border: 1px solid var(--border-color);
+        border-radius: 8px;
+        font-size: 20px;
+        height: 300px;
+        width: 100%;
+        padding: 10px;
+        resize: vertical;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      }
+
+      textarea::placeholder {
+        color: var(--placeholder-color);
+      }
+
+      textarea:focus {
+        outline: none;
+        border-color: #007acc;
+        box-shadow: 0 0 5px #007acc;
+      }
+
+      .theme-toggle {
+        background-color: var(--button-bg);
+        color: var(--button-text);
+        border: none;
+        padding: 8px 16px;
+        margin-bottom: 20px;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background 0.3s, color 0.3s;
+      }
+
+      .theme-toggle:hover {
+        opacity: 0.85;
+      }
+    </style>
+
+    <script>
+      function toggleTheme() {
+        document.documentElement.classList.toggle('dark')
+      }
+    </script>
+  </head>
+
+  <body>
+    <button class="theme-toggle" onclick="toggleTheme()">
+      🌗 Alternar Tema
+    </button>
+
+    <h1>📝 Texthooker para minerar palavras em japonês</h1>
+    <p>
+      Cole aqui seu texto em japonês e passe o mouse com o Yomitan/Yomichan
+      ativo para ver os significados:
+    </p>
+    <textarea placeholder="Cole o texto japonês aqui..."></textarea>
+  </body>
+</html>
