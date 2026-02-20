@@ -14,6 +14,7 @@ Caso algum recurso esteja disponível somente em um idioma específico ele será
 |:----:|:---------:|:---------:|
 | 🇯🇵 | 🇺🇸 | 🇧🇷 |
 
+Recursos marcado com este emoji de estrela ⭐são os que considero notável para dar uma olhada em relação a categoria onde ele está.
 Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado para todas as audiências e/ou que sejam recomendado para maiores de dezoito anos. Então, entre por sua própria conta e risco.
 
 ## 📌 Índice
@@ -95,6 +96,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 
 | Nome | Descrição |
 |:---- |:--------- |
+| 🇯🇵 [日本語to旅](https://www.youtube.com/@nihongototabi/courses "日本語to旅～Nihongo to Tabi～") | Curso de japonês gratuito de um nativo |
 | 🇧🇷 [Curso de Japonês da NHK](https://www.nhk.or.jp/lesson/portuguese) | Curso de japonês oferecido pela NHK |
 | 🇧🇷 [Desafio da Erin](https://www.erin.ne.jp/pt) | Série de video aulas para estudo de japonês |
 | 🇧🇷 [Nippo](https://www.nippo.com.br/2.semanal.aula) | Website que possui um curso de Kanjis e Conversação |
@@ -164,6 +166,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 |:---- |:--------- |
 | 🇺🇸 [DownSub](https://downsub.com) | O DownSub pode baixar legendas diretamente do Youtube, VIU, Viki, Vlive e muito mais. Suporta o download de todos os formatos de legendas, como: SRT, TXT, VTT. O DownSub não força o usuário a baixar ou instalar qualquer tipo de extensões ou software de terceiros. Fornecemos um método on-line para baixar legendas digitando o URL do vídeo e clicando em Download. |
 | [ichi.moe](https://ichi.moe) | Divide uma frase em palavras, procura elas no dicionário |
+| 🇺🇸 [Immersion Kit](https://www.immersionkit.com "Immersion Kit - Anime Sentences for Japanese Learners") | Uma ferramenta para pesquisar palavras e frases de anime com áudio e imagem, semelhante ao Nadeshiko. Possui integração com o Anki |
 | 🇺🇸 [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji |
 | 🇺🇸 [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas) | Realizar pesquisa de kanjis escrevendo |
 | 🇺🇸 [Kanji.sljfaq](https://kanji.sljfaq.org) | Website que mostra imagem em .png ou .svg da ordem dos traços enumerados, é um site bem estilo de ser tool mesmo, e nos bastidores usa o kanji-colorize que também é usado no complento do Anki Kanji Colorizer |
@@ -191,6 +194,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | 🇯🇵 [Freem](https://www.freem.ne.jp) | Website que tem vários jogos em japonês | - |
 | 🇯🇵 [Illust Chainer](https://play.google.com/store/apps/details?id=com.gunsturn.illustchainer) |*Shiritori* multiplayer | Android |
 | 🇯🇵 [Ikeboy - Escape Game](https://play.google.com/store/apps/details?id=air.jp.globalgear.boy) | Game de Puzzle | Android |
+| ⭐[KotoPlay](https://kotoplay.com "KotoPlay - A quiz game for Japanese lovers") | Jogo de quiz para amantes da língua japonesa | Windows (navegador) |
 | 🇯🇵 [Princess Connect! Re:Dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive)| Game estilo RPG | Android |
 | 🇯🇵 [Sword Art Online: Memory Defragment](https://play.google.com/store/apps/details?id=com.bandainamcoent.saomd) | Game da série Sword Art Online  | Android |
 |[WoWRoms](https://wowroms.com/en/roms/list?search=Japan) | Games em japonês para diversas plataformas. Principalmente para Nintendo | - |
@@ -311,16 +315,21 @@ Recursos gerais que podem ser de muita utilidade durante sua jornada de estudo.
 | 🇺🇸 [1000 Japanese basic words](https://en.wiktionary.org/wiki "1000 Japanese basic words") | Um apêndice/lista de vocabulário com 1000 palavras básicas japonesas |  
 | 🇧🇷 [Aulas de Japonês](https://aulasdejapones.com.br) | Portal de estudo da língua japonesa com vários artigos. Possui um curso fechado chamado Programa Japonẽs Online |
 | 🇯🇵 [Chigai All Guide](https://chigai-allguide.com "Comparação entre duas palavras semelhantes") | Comparação entre duas palavras parecidas com explicação |
+| ⭐🇺🇸 [COTO JLPT Grammar and Vocab Mega List](https://docs.google.com/spreadsheets/d/1m6P8KXrzkgcp9Yxq6AH3uge7kA5yOudwzRN074Cuep0/edit "COTO JLPT Grammar and Vocab Mega List") | Planilhas com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) |
 | 🇯🇵 [絵でわかる日本語](http://www.edewakaru.com "Entender Japonês por Imagens") | Possui vasto conteúdo para aprender japonês a partir de imagens |
 | 🇧🇷 [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas |
 | 🇺🇸 [Japanese Conjugator Pratice](http://baileysnyder.com/jconj) | Teste suas habilidades na conjugação de verbos |
 | 🇺🇸 [Japanesepod101](https://www.japanesepod101.com) | Portal de estudo da língua japonesa |
+| 🇺🇸 [JLPT Study](https://www.jlptstudy.net "jlptstudy.net") | Materiais de estudo para os níveis JLPT N5 a N2 |
+| ⭐🇺🇸 [Japanesetest4you](https://japanesetest4you.com "Japanesetest4you") | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) |
+| 🇯🇵 [J.Master]([https://www.jmasterbrasil.com.br/atencao-mudancas-nos-niveis-j-test-a-partir-de-maio-2019](https://j-test.jp/page_id2066) "J.Master") | Provas do J.Test anteriores |
 | 🇧🇷 [Kotobá](http://kotoba.com.br) | Site com vários artigos sobre o Japão. Possui um curso fechado chamado JLPT Gaichi Taisaku, nos níveis N3, N4, N5 |
 | 🇺🇸 [Renshuu](https://www.renshuu.org) | Plataforma de estudo de japonês com frases e imagens |
 | 🇧🇷 [Suki Desu](http://skdesu.com) | Blog que possui artigos relacionados ao estudo e a cultura japonesa |
-| 🇺🇸 [Tanos](http://www.tanos.co.uk) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) | 
+| ⭐🇺🇸 [Tanos](http://www.tanos.co.uk) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) com decks para o Anki, pdfs, planilhas e etc | 
 | 🇯🇵 [Watanoc](http://watanoc.com) | Website com notícias dividadas por cada nivel do JLPT(*Japanese Language Proficiency Test*) |
 | 🇺🇸 [Japanesetest4you](https://japanesetest4you.com) | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) |
+| 🇺🇸 [Wotaku](https://wotaku.wiki "Wotaku") | Um índice para *otakus*. Tem várias ótimas referências para estudantes de japonês, muitas delas até já presentes aqui |
 
 <br>
 
