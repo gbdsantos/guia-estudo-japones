@@ -323,7 +323,7 @@ Recursos gerais que podem ser de muita utilidade durante sua jornada de estudo.
 | 🇺🇸 [Japanesepod101](https://www.japanesepod101.com) | Portal de estudo da língua japonesa |
 | 🇺🇸 [JLPT Study](https://www.jlptstudy.net "jlptstudy.net") | Materiais de estudo para os níveis JLPT N5 a N2 |
 | ⭐🇺🇸 [Japanesetest4you](https://japanesetest4you.com "Japanesetest4you") | Website com questões de todos os níveis da prova JLPT(*Japanese Language Proficiency Test*) |
-| 🇯🇵 [J.Master]([https://www.jmasterbrasil.com.br/atencao-mudancas-nos-niveis-j-test-a-partir-de-maio-2019](https://j-test.jp/page_id2066) "J.Master") | Provas do J.Test anteriores |
+| 🇯🇵 [J.Master](https://j-test.jp/page_id2066 "J.Master") | Provas do J.Test anteriores |
 | 🇧🇷 [Kotobá](http://kotoba.com.br) | Site com vários artigos sobre o Japão. Possui um curso fechado chamado JLPT Gaichi Taisaku, nos níveis N3, N4, N5 |
 | 🇺🇸 [Renshuu](https://www.renshuu.org) | Plataforma de estudo de japonês com frases e imagens |
 | 🇧🇷 [Suki Desu](http://skdesu.com) | Blog que possui artigos relacionados ao estudo e a cultura japonesa |
