@@ -329,7 +329,7 @@ Recursos gerais que podem ser de muita utilidade durante sua jornada de estudo.
 | 🇧🇷 [Japonês de Anime](https://www.japonesdeanime.com.br/2016/10/particulas-japones-significados-exemplos-gramatica.html#particula-na) | Artigo sobre as partículas |
 | ⭐[JLPT Practice](https://ten-jlpt-site.vercel.app "JLPT Practice") | Faça simulados de provas do JLPT com funcionalidades de "Modo Prática" e "Modo Exame" com cronômetro |
 | 🇺🇸 [JLPT Study](https://www.jlptstudy.net "jlptstudy.net") | Materiais de estudo para os níveis JLPT N5 a N2 |
-| ⭐🇺🇸 [JPDB Anime difficulty list](https://jpdb.io/anime-difficulty-list "JPDB | Anime difficulty list") | Lista de animes ranqueado por dificuldade. Ótimo para referência se você está em busca de alguma material para fazer imersão, existem outras listas como para **live actions**, **novels**, **visual novels** também |
+| ⭐🇺🇸 [JPDB Anime difficulty list](https://jpdb.io/anime-difficulty-list "JPDB - Anime difficulty list") | Lista de animes ranqueado por dificuldade. Ótimo para referência se você está em busca de alguma material para fazer imersão, existem outras listas como para **live actions**, **novels**, **visual novels** também |
 | 🇯🇵 [J.Master](https://j-test.jp/page_id2066 "J.Master") | Provas do J.Test anteriores |
 | 🇧🇷 [Kotobá](http://kotoba.com.br) | Site com vários artigos sobre o Japão. Possui um curso fechado chamado JLPT Gaichi Taisaku, nos níveis N3, N4, N5 |
 | 🇺🇸 [Renshuu](https://www.renshuu.org) | Plataforma de estudo de japonês com frases e imagens |
