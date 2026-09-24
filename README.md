@@ -156,6 +156,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | 🇧🇷 [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl) | Assistir filmes e séries no idioma que você estuda na Netflix |
 | 🇺🇸 [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)|Adiciona furigana nos textos de websites |
 | 🇧🇷 [Rikai-san](https://github.com/eyeS-Code/rikaisan-universal)| Adiciona furigana nos textos de websites em português |
+| 🇺🇸 [Rolko](https://www.rolko.xyz/ja/learn/japanese) | Extensão para Chrome que consulta texto japonês selecionável em páginas e legendas compatíveis. A consulta é gratuita; salvar palavras e fazer revisão espaçada exigem um plano pago. Não reconhece texto em imagens. |
 | 🇺🇸 ~~[Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?utm_source=chrome-ntp-icon)~~ | Essa extensão é semelhante a Rikaichan para Firefox e Rikaikun para Chrome, mas se destaca em seu objetivo de ser uma ferramenta de aprendizado abrangente em oposição a um mero dicionário baseado em navegador **(depreciado)** | 
 | ⭐[Yomitan](https://chromewebstore.google.com/detail/yomitan-popup-dictionary/likgccmbimhjbgkjambclfkhldnlhbnn "Yomitan - Dicionário pop-up para aprendizado de idiomas") | Dicionário pop-up para aprendizado de idiomas |
 
