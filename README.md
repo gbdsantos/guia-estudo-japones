@@ -283,6 +283,7 @@ Canais no YouTube e mídias no geral.
 | [Anime Song Lyrics](https://www.animesonglyrics.com) | Letras em japonês de músicas de animes com possíveis traduções em outros idiomas |
 | 🇺🇸 [Lyrical Nonsense](https://www.lyrical-nonsense.com) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | 
 | [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo, incluindo o Japão |
+| [Roam Radio – Japão](https://roamradios.com/countries/JP) | Diretório gratuito de rádios japonesas ao vivo; ouça no navegador, sem cadastro |
 
 <br>
 
