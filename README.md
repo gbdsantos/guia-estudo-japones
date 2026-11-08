@@ -59,7 +59,9 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | [Memrise](https://www.memrise.com) | Aplicativo para estudo de japonês | Android, iOS |
 | ⭐[Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana | Android, iOS |
 | [OCR Manga Reader](http://ocrmangareaderforandroid.sourceforge.net/#download) | O OCR Manga Reader é um aplicativo Android de código aberto (*open-source*) e gratuito que permite que você oculte rapidamente e procure palavras japonesas em tempo real. Não possui anúncios ou telemetria/*spyware* e não requer conexão com a Internet. Suporta o dicionário EDICT J-E, dicionário de nomes ENAMDICT(opcional), dicionário de kanji(opcional) e até 4 dicionários EPWING. Requer o Android 4.0(Ice Cream Sandwich) ou superior. | Android |
+| [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) | Dicionário japonês-inglês e japonês-português(portugal) e ferramenta de estudo de japonês | Android, iOS |
 | [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine | Windows |
+| [Todaii](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) | Ler notícias em japonês com várias ferramentas para auxiliar no estudo | Android, iOS |
 | [Voracious](https://voracious.app) | Vídeo Player para aprender idiomas, com ênfase no Japonês | Linux, macOS, Windows |
 | [YACReader](https://yacreader.com) | Programa para leitura e gerenciamento(biblioteca) de mangás e quadrinhos | Linux, macOS, Windows |
 
@@ -70,8 +72,10 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 > Fique atento a sua versão do Anki para que o complemento é compatível.
 
 | Nome | Descrição |
-|:----:|:---------:|
-| [Anki Connect](https://ankiweb.net/shared/info/2055492159) | Complemento para ser possível criar cartas a partir do navegador  |
+|:----:|:----------|
+| [Anki Connect](https://ankiweb.net/shared/info/2055492159) | Complemento para ser possível criar cartas a partir do navegador |
+| [AnkiCord](https://ankiweb.net/shared/info/933207442 "AnkiCord - Discord Rich Presence") | Utiliza a biblioteca `pypresence` e atualiza seu status do Discord (*Rich Presence*) para exibir sua atividade do Anki no Discord |
+| [Custom Background Image and Gear Icon](https://ankiweb.net/shared/info/1210908941 "Custom Background Image and Gear Icon") | Customizar imagem de fundo e até o ícone de configuração do baralho |
 | ~~[Night Mode](https://ankiweb.net/shared/info/1496166067)~~ | Tema escuro para o Anki. Novas versões do Anki já possui a funcionalidade de tema dark **(descontinuado)** |
 | [Heatmap Review](https://github.com/glutanimate/review-heatmap/releases) | Visualização de sequência com um gráfico de *heatmap* |
 | [Image Style Editor](https://ankiweb.net/shared/info/1593969147) | Redimensionar imagens individualmente | 
@@ -120,6 +124,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 | 🇺🇸 [Tangorin](https://tangorin.com)| Dicionário de japonês |
 | 🇺🇸 [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary) | Dicionário de japonês em inglês |
 | [Tatoeba](https://tatoeba.org/por) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |
+| 🇯🇵 [Weblio](https://www.weblio.jp "Weblio") | Dicionário monolíngue, japonês para japonês |
 
 <br>
 
