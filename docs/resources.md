@@ -17,7 +17,9 @@
 | [Memrise](https://www.memrise.com) | Aplicativo para estudo de japonês | Android, iOS |
 | ⭐[Obenkyou](https://play.google.com/store/apps/details?id=com.Obenkyo) | Aplicativo muito bom para iniciantes começarem a aprender o hiragana e katakana | Android, iOS |
 | [OCR Manga Reader](http://ocrmangareaderforandroid.sourceforge.net/#download) | O OCR Manga Reader é um aplicativo Android de código aberto (*open-source*) e gratuito que permite que você oculte rapidamente e procure palavras japonesas em tempo real. Não possui anúncios ou telemetria/*spyware* e não requer conexão com a Internet. Suporta o dicionário EDICT J-E, dicionário de nomes ENAMDICT(opcional), dicionário de kanji(opcional) e até 4 dicionários EPWING. Requer o Android 4.0(Ice Cream Sandwich) ou superior. | Android |
+| [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) | Dicionário japonês-inglês e japonês-português(portugal) e ferramenta de estudo de japonês | Android, iOS |
 | [Textractor](https://github.com/Artikash/Textractor) | Ferramenta para extrair textos de jogos para Windows(x86/x64)/Wine | Windows |
+| [Todaii](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) | Ler notícias em japonês com várias ferramentas para auxiliar no estudo | Android, iOS |
 | [Voracious](https://voracious.app) | Vídeo Player para aprender idiomas, com ênfase no Japonês | Linux, macOS, Windows |
 | [YACReader](https://yacreader.com) | Programa para leitura e gerenciamento(biblioteca) de mangás e quadrinhos | Linux, macOS, Windows |
 
@@ -29,7 +31,9 @@
 
 | Nome | Descrição |
 |:---- |:--------- |
-| [Anki Connect](https://ankiweb.net/shared/info/2055492159) | Complemento para ser possível criar cartas a partir do navegador  |
+| [Anki Connect](https://ankiweb.net/shared/info/2055492159) | Complemento para ser possível criar cartas a partir do navegador |
+| [AnkiCord](https://ankiweb.net/shared/info/933207442 "AnkiCord - Discord Rich Presence") | Utiliza a biblioteca `pypresence` e atualiza seu status do Discord (*Rich Presence*) para exibir sua atividade do Anki no Discord |
+| [Custom Background Image and Gear Icon](https://ankiweb.net/shared/info/1210908941 "Custom Background Image and Gear Icon") | Customizar imagem de fundo e até o ícone de configuração do baralho |
 | ~~[Night Mode](https://ankiweb.net/shared/info/1496166067)~~ | Tema escuro para o Anki. Novas versões do Anki já possui a funcionalidade de tema dark **(descontinuado)** |
 | [Heatmap Review](https://github.com/glutanimate/review-heatmap/releases) | Visualização de sequência com um gráfico de *heatmap* |
 | [Image Style Editor](https://ankiweb.net/shared/info/1593969147) | Redimensionar imagens individualmente | 
@@ -67,7 +71,7 @@
 | 🇺🇸 [Tangorin](https://tangorin.com)| Dicionário de japonês |
 | 🇺🇸 [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary) | Dicionário de japonês em inglês |
 | [Tatoeba](https://tatoeba.org/por) |  Coleção de frases e traduções. Busca de frases a partir de uma palavra |
-
+| 🇯🇵 [Weblio](https://www.weblio.jp "Weblio") | Dicionário monolíngue, japonês para japonês |
 
 ## Diversos
 
@@ -100,8 +104,9 @@
 | 🇧🇷 [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl) | Assistir filmes e séries no idioma que você estuda na Netflix |
 | 🇺🇸 [Rikai-kun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp)|Adiciona furigana nos textos de websites |
 | 🇧🇷 [Rikai-san](https://github.com/eyeS-Code/rikaisan-universal)| Adiciona furigana nos textos de websites em português |
+| 🇺🇸 [Rolko](https://www.rolko.xyz/japanese-popup-dictionary-for-websites) | Extensão para Chrome que consulta texto japonês selecionável em páginas e legendas compatíveis. A consulta é gratuita; salvar palavras novas exige um plano pago. Palavras já salvas continuam disponíveis para revisão no plano gratuito. Não reconhece texto em imagens |
 | 🇺🇸 ~~[Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?utm_source=chrome-ntp-icon)~~ | Essa extensão é semelhante a Rikaichan para Firefox e Rikaikun para Chrome, mas se destaca em seu objetivo de ser uma ferramenta de aprendizado abrangente em oposição a um mero dicionário baseado em navegador **(depreciado)** | 
-| ⭐[Yomitan](https://chromewebstore.google.com/detail/yomitan-popup-dictionary/likgccmbimhjbgkjambclfkhldnlhbnn "Yomitan - Dicionário pop-up para aprendizado de idiomas") | Dicionário pop-up para aprendizado de idiomas | 
+| ⭐[Yomitan](https://chromewebstore.google.com/detail/yomitan-popup-dictionary/likgccmbimhjbgkjambclfkhldnlhbnn "Yomitan - Dicionário pop-up para aprendizado de idiomas") | Dicionário pop-up para aprendizado de idiomas |
 
 ## 🛠 Ferramentas
 
@@ -208,6 +213,7 @@ Canais no YouTube e mídias no geral.
 | [Anime Song Lyrics](https://www.animesonglyrics.com) | Letras em japonês de músicas de animes com possíveis traduções em outros idiomas |
 | 🇺🇸 [Lyrical Nonsense](https://www.lyrical-nonsense.com) | Site com letras de músicas de animes em japonês, é possível encontrar algumas traduzidas em diversos idiomas | 
 | [Radio Garden](https://radio.garden/listen/shonan-beach-fm/RCTVEAew) | Ouça milhares de estações de rádio ao vivo em todo o mundo, girando o globo, incluindo o Japão |
+| [Roam Radio – Japão](https://roamradios.com/countries/JP) | Diretório gratuito de rádios japonesas ao vivo; ouça no navegador, sem cadastro |
 
 ## ⬇ Torrent e Trackers
 
