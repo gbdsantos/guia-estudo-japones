@@ -173,6 +173,7 @@ Recursos marcado com este emoji 🔞 podem ter conteúdo que não é adequado pa
 |:---- |:--------- |
 | [Delvin Language](http://delvinlanguage.com "Delvin Language") | Pratique a sua compreensão auditiva transcrevendo o que ouvir no áudio |
 | 🇺🇸 [DownSub](https://downsub.com) | O DownSub pode baixar legendas diretamente do Youtube, VIU, Viki, Vlive e muito mais. Suporta o download de todos os formatos de legendas, como: SRT, TXT, VTT. O DownSub não força o usuário a baixar ou instalar qualquer tipo de extensões ou software de terceiros. Fornecemos um método on-line para baixar legendas digitando o URL do vídeo e clicando em Download. |
+| 🇺🇸 [GetYouTubeTranscript](https://getyoutubetranscript.com "GetYouTubeTranscript: transcrições do YouTube") | Cole o link de um vídeo do YouTube e veja a transcrição das legendas em japonês com marcação de tempo; copie, baixe em SRT ou TXT para treinar a escuta e o shadowing, ou traduza para outro idioma. Algumas transcrições por dia funcionam sem conta; para mais, é preciso conta ou plano pago |
 | [ichi.moe](https://ichi.moe) | Divide uma frase em palavras, procura elas no dicionário |
 | 🇺🇸 [Immersion Kit](https://www.immersionkit.com "Immersion Kit - Anime Sentences for Japanese Learners") | Pesquisar palavras e frases de anime com áudio e imagem, semelhante ao Nadeshiko. Possui integração com o Anki |
 | 🇺🇸 [J-Talk](https://j-talk.com/convert) | Conversor de texto em japonês para o hiragana/kanji |
