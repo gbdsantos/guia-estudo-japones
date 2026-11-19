@@ -340,6 +340,7 @@ Recursos gerais que podem ser de muita utilidade durante sua jornada de estudo.
 | ⭐🇺🇸 [JPDB Anime difficulty list](https://jpdb.io/anime-difficulty-list "JPDB - Anime difficulty list") | Lista de animes ranqueado por dificuldade. Ótimo para referência se você está em busca de alguma material para fazer imersão, existem outras listas como para **live actions**, **novels**, **visual novels** também |
 | 🇯🇵 [J.Master](https://j-test.jp/page_id2066 "J.Master") | Provas do J.Test anteriores |
 | 🇧🇷 [Kotobá](http://kotoba.com.br) | Site com vários artigos sobre o Japão. Possui um curso fechado chamado JLPT Gaichi Taisaku, nos níveis N3, N4, N5 |
+| [Nihongo to Japan](https://www.nihongotojapan.com/en "Nihongo to Japan") | Guias de gramática do JLPT N5 a N1 com exercícios, treino de conjugação e curso de autoestudo gratuito |
 | 🇺🇸 [Renshuu](https://www.renshuu.org) | Plataforma de estudo de japonês com frases e imagens |
 | 🇧🇷 [Suki Desu](http://skdesu.com) | Blog que possui artigos relacionados ao estudo e a cultura japonesa |
 | ⭐🇺🇸 [Tanos](http://www.tanos.co.uk/jlpt) | Website com listas de kanjis e vocabulário requeridos em cada nivel do JLPT(*Japanese Language Proficiency Test*) com decks para o Anki, pdfs, planilhas e etc | 
